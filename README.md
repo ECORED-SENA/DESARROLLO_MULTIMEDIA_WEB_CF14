@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.2.1**
+# **Posicionamiento del proyecto multimedia**
 
-## **Enlace GitHubPages**
+## **CF14 - Tecnólogo 217320 Desarrollo Multimedia y Web**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-sena.github.io/DESARROLLO_MULTIMEDIA_WEB_CF14/](https://ecored-sena.github.io/DESARROLLO_MULTIMEDIA_WEB_CF14/)
 
 #
 
