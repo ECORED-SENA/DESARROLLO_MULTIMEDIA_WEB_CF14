@@ -513,7 +513,7 @@
 
     .row.mb-4
       .col-md-7
-        AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
+        AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-azul")
           .row(titulo="Envío de correos de seguimiento")
             .col-md-12.mb-4.mb-md-0
               p Es una forma muy común en solicitar información vía correo electrónico, cuando un producto o servicio ha sido adquirido y entregado al cliente, se puede enviar el cuestionario al correo electrónico. Un ejemplo puede ser cuando se utiliza un servicio de hotel y llega una solicitud de calificar la experiencia. 
@@ -542,6 +542,8 @@
             .col-md-12.mb-4.mb-md-0
               p Es una de las herramientas más eficientes a la hora de interactuar con la audiencia, habitualmente los clientes están conectados en las redes sociales como Instagram, Facebook, Twitter, esto reducirá tiempo y esfuerzo a la compañía interactuar con ellos. Se recomienda responder mensajes, enviar mensajes directos, conectar con los usuarios interesados en la marca y entender lo que verdaderamente piensan de un producto, servicio, o compañía.         
       .col-md-5
+        figure
+          img(src='@/assets/curso/tema4/vec2.svg', alt='')
     Separador
 
 </template>
