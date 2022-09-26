@@ -127,12 +127,6 @@ export default {
             titulo: 'Aplicación de técnicas SEM',
             hash: 't_4_4',
           },
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.5',
-            titulo: 'Sistemas de feedback para usuarios',
-            hash: 't_4_5',
-          },
         ],
       },
     ],
@@ -178,132 +172,164 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
+        'Academia grandi (2020). Posicionamiento SEM: ventajas y desventajas que no podés desconocer.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://academia.crandi.com/publicidad-digital/posicionamiento-sem-ventajas-y-desventajas/',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA:',
+        'Cámara Zamora (2020). Posicionamiento SEM: Marketing en Buscadores.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'https://www.camarazamora.com/posicionamiento-sem-marketing-en-buscadores',
     },
     {
-      referencia:
-        '<em>Harpersbazaar</em>. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
-    },
-    {
-      referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+      referencia: 'Antevenio (2015). Qué es y cómo funciona Google Analytics.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'https://www.antevenio.com/blog/2015/03/que-es-como-funciona-google-analytics/',
+    },
+    {
+      referencia: 'Concepto (2018). Diagrama de flujo.',
+      link: 'https://concepto.de/diagrama-de-flujo/',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA.',
+        'Cyberclick (2020). ¿Qué es el posicionamiento SEM? Definición, ventajas y características.',
+      link: 'https://www.cyberclick.es/sem/posicionamiento-sem',
     },
     {
       referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
+        'Hablemos de empresas (2018). ¿Qué es el SEM? Explicamos el Search Engine Marketing y cómo puedes aplicarlo a tu negocio online.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'https://hablemosdeempresas.com/empresa/sem-search-engine-marketing/',
     },
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
+        'Hubspot (2021). 16 estrategias para conseguir feedback de tus clientes.',
+      link: 'https://blog.hubspot.es/service/estrategias-feedback-clientes',
+    },
+    {
+      referencia: 'Lucitchart (2021). Qué es un diagrama de flujo.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
+        'https://www.lucidchart.com/pages/es/que-es-un-diagrama-de-flujo/#section_4',
     },
     {
       referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
+        'Internet ya (2020). La importancia de un diseño web responsive.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'https://www.internetya.co/la-importancia-de-un-diseno-web-responsive/',
+    },
+    {
+      referencia:
+        'Marketing y web (2017). 25 Técnicas SEO que mejor funcionan [Ejemplos]. ',
+      link: 'https://www.marketingandweb.es/marketing/tecnicas-seo/',
+    },
+    {
+      referencia:
+        'MKD (2021). Posicionamiento SEO para 2021: La guía definitiva. ',
+      link:
+        'https://marketingdigitalconsulting.com/la-guia-definitiva-de-posicionamiento-seo-para-2021/',
+    },
+    {
+      referencia:
+        'Mullbrand (2020). 10 Técnicas SEO para mejorar el posicionamiento web. ',
+      link: 'https://mullbrand.com/10tecnicas-seo/',
+    },
+    {
+      referencia: 'Pixel vivo (2021). ¿Qué son los wireflows?',
+      link: 'https://pixelvivo.es/que-son-los-wireflows/',
+    },
+    {
+      referencia:
+        'Rockcontent (2019). SEM: conoce el marketing para buscadores y cómo usarlo para impulsar la presencia digital de tu marca.',
+      link: 'https://rockcontent.com/es/blog/que-es-search-engine-marketing/',
+    },
+    {
+      referencia:
+        'Rock content (2018). ¿Qué son los backlinks? Guía práctica y muy útil para mejorar tu SEO.',
+      link: 'https://rockcontent.com/es/blog/que-son-los-backlinks/',
+    },
+    {
+      referencia:
+        'The power mba (2021). Top 21 herramientas de analítica web que te ayudarán a tomar decisiones inteligentes basadas en datos reales.',
+      link:
+        'https://www.thepowermba.com/es/herramientas/mejores-herramientas-de-analitica-web/',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'SEM',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'El SEM, las siglas de Search Engine Marketing, hace referencia al marketing y publicidad que se realiza en los distintos motores de búsqueda. Concretamente, se refiere a todas aquellas acciones de pago que se pueden realizar en los buscadores o en las páginas web y que tienen como objetivo captar tráfico e incrementar la visibilidad de los negocios rápidamente (Cámara Zamora, 2020).',
     },
     {
-      termino: '<em>Suftware</em>',
+      termino: 'SEO',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'SEO son las iniciales en inglés de Search Engine Optimization (optimización para motores de búsqueda). Se puede definir como “conjunto de acciones que se realizan para mejorar la visibilidad de un portal de internet en los resultados orgánicos de los distintos buscadores” (Francisco, 2021).',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Responsive',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'Diseño web responsive es una manera de diseñar y codificar un sitio web que hace que cada elemento de la navegación del sitio sea ajustable basado en el tamaño de pantalla. Texto, imágenes y vídeos, todos se mueven en su posición apropiada sobre la base de qué tan grande es el espacio de visualización disponible (internet ya, 2020).',
     },
     {
-      termino: '<em>Áectores</em>',
+      termino: 'Google Analytis',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'La herramienta te permite hacer un seguimiento de sitios web, blogs y redes sociales. Además, pone a tu disposición informes predeterminados y personalizables. (antevenio, 2015).',
     },
     {
-      termino: 'Moda',
+      termino: 'Backlinks',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'Los backlinks son enlaces dispuestos en un texto que dirigen al lector a otro sitio que tenga contenido relacionado con lo que está leyendo (rock content, 2018).',
     },
     {
-      termino: 'Diseña',
+      termino: 'SEmRush',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'La herramienta semrush, se utiliza principalmente para analizar datos relacionados con el ámbito del SEO, es decir, posicionamiento web, como también para elaborar estrategias para conseguir backlinks hacia una web o construir publicidad (Pastoriza, A., 2018).',
     },
     {
-      termino: 'DIseño',
+      termino: 'Landing page',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Una Landing Page (página de aterrizaje) es una página dentro de un sitio web, desarrollada con el único objetivo de convertir los visitantes en Leads o prospectos de ventas por medio de una oferta determinada. Generalmente tiene un diseño más sencillo con pocos enlaces e informaciones básicas sobre la oferta, además de un formulario para realizar la conversión (RD Station, 2018).',
     },
     {
-      termino: 'Tipología',
+      termino: 'Wireflow',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+        'Los wireflows son elementos que comunican con mayor claridad gran parte de las necesidades de un producto, porque son capaces de mostrar una visión general y contextualizada. Esto ayuda a entender mejor los flujos de navegación, las interacciones entre pantallas y, en consecuencia, a desarrollar una mejor experiencia de usuario (Oliva, J., 2021).',
     },
     {
-      termino: 'Bidimensional',
+      termino: 'Feedback',
       significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
-    },
-    {
-      termino: 'Interés Inferior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'La retroalimentación o feedback es la opinión que alguien tiene de un servicio o producto determinado del que ha hecho uso o que ha consumido. Al reunir y gestionar un gran número de opiniones podemos utilizar el feedback como una herramienta para crear una evaluación del servicio o producto en cuestión (hudspot, 2021).',
     },
   ],
   complementario: [
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: 'Fundamentos de posicionamiento SEO',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
+        'Hernández, R. (2016) Que es SEO y Como Funciona Posicionamiento Google. [video]. Youtube. ',
       tipo: 'Video',
-      link: 'https://www.google.com/',
+      link: 'https://www.youtube.com/watch?v=AavsQP3gPj4',
     },
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: 'Fundamentos de posicionamiento SEM',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
+        'Marketing4ecommerce (2017). Qué es el SEM: claves del Search Engine Marketing. [video].',
       tipo: 'Video',
-      link: 'https://www.google.com/',
+      link: 'https://www.youtube.com/watch?v=voxDnfOre-U',
     },
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: 'Google analytics',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
+        'Valdez, A. (2018) ¿Qué es Google Ads y cómo funciona? [video].',
       tipo: 'Video',
-      link: 'https://www.google.com/',
+      link: 'https://www.youtube.com/watch?v=iQdCSC5OH8o',
+    },
+    {
+      tema: 'Google analytics',
+      referencia:
+        'Ciudadano 2.0 (2020) ¿Qué es Google Analytics y para qué sirve? - Tutorial 2021 [video]. Youtube.',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=99AxRpEDzKs',
     },
   ],
   creditos: {
