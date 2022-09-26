@@ -17,7 +17,7 @@
         .cajon.color-acento-botones.p-4(style='background-color: #FFFAE7')
           p Estas estrategias de marketing digital son fundamentales para que una empresa obtenga reconocimiento en internet y, por lo tanto, obtenga más visitas, clientes y ventas.
     .row.mb-4
-      .cajon-b.color-secundario.p-3
+      .cajon-b.color-acento-contenido.p-3
         p.mb-0 El SEO es un proceso diseñado por varios componentes que se implementan continuamente. Los resultados no se logran bajo una sola acción, no solamente por utilizar palabras claves, por ejemplo, se puede tener una buena posición en Google. Esto va más allá, se trata de objetivos a largo plazo y una serie de técnicas en grupo, con el fin de mejorar el reconocimiento de un sitio web y atraer visitas relevantes.
     .row.mb-4
       .col-md-12.col-12

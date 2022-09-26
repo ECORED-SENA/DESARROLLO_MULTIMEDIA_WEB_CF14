@@ -21,7 +21,7 @@
           .bloque-texto-g__texto.p-5.mb-5
             p <b> <FONT COLOR="#1565C0"> El SEM es el marketing en redes sociales (smm) </FONT> </b> que se busca en la explotación de medios sociales para influir en los usuarios y así persuadirlos hacia la compra de un producto o servicio.
 
-    #t_2_1.titulo-segundo.color-acento-contenido
+    #t_2_1.titulo-segundo.color-acento-botones
       .h4 2.1	Componentes SEM
 
     p.mb-4 Diseñar una buena estrategia SEM, implica aspectos a tener en cuenta con el objetivo de obtener los mejores resultados y optimizar la inversión. Se debe diseñar la estrategia teniendo presente los siguientes aspectos:
@@ -88,7 +88,7 @@
                     p.mb-0 Dependiendo se puede escoger un público objetivo a comparación del SEO. Se puede instaurar en base a unos criterios como edad, comportamiento, palabra clave o localización.
     Separador
 
-    #t_2_2.titulo-segundo.color-acento-contenido
+    #t_2_2.titulo-segundo.color-acento-botones
       .h4 2.2 Características SEM
 
     p.mb-4 SEM tiene diferentes tipos de características que permite sea más efectivo su optimización, así mismo los inconvenientes que pueda tener para su implementación. 
@@ -162,7 +162,6 @@
                   img(src='@/assets/curso/tema2/punto2.svg' alt='')
               h5.mb-1 Estrategia de fusión
               p.mb-0 Diseñar una estrategia de marketing digital, fusionando estrategias de SEM y estrategias de SEO, se logrará obtener posicionamiento a corto, mediano y largo plazo, no se trata de tomar una opción entre las dos, sencillamente las dos son el complemento adecuado para el desarrollo de una buena estrategia de marketing digital.
-
     separador
     
 </template>

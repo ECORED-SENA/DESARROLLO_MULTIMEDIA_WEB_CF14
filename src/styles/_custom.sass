@@ -32,11 +32,14 @@
 
 ///tema1
 
+.cajon-b.color-acento-contenido:before
+  background-color: #B2EBF2
+
 .cajon-b:before 
   content: ''
   display: block
   position: absolute
-  opacity: .50
+  opacity: .99
   top: 10%
   left: 0
   right: 46%
@@ -79,6 +82,8 @@
 
 .lista-ul--color li > i:first-of-type
   color: #FB8C00
+
+///tema2
 
 .color-tarjeta
   background-color: #B2EBF2
@@ -137,3 +142,82 @@
   background-color: #FEAC4F
   border: 5px solid #FEAC4F
   border-radius: 20px
+
+///tema3
+
+.bloque-texto-g1 
+  position: relative
+  display: flex
+  justify-content: flex-start
+
+.bloque-texto-g1.color-rojo
+  background-color: #E8E8E8
+
+.bloque-texto-g1__img 
+  width: 40%
+  position: absolute
+  top: 0px
+  right: 60%
+  bottom: 0
+  background-position: center
+  background-size: cover
+
+.bloque-texto-g1__texto 
+  position: relative
+  width: 70%
+  background-color: rgba(255, 255, 255, 0.95)
+  right: -30%
+
+.tarjeta-zul
+  background-color: #CBDEF4
+
+.linea-tiempo-c__header__btn, .linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right, .pasos-b__header__btn--left, .pasos-b__header__btn--right
+  min-width: 50px
+  max-width: 50px
+  min-height: 50px
+  max-height: 50px
+  flex: auto
+  border-radius: 50%
+  border: 2px solid #3a61f054
+  background-color: #fff
+  position: relative
+  cursor: pointer
+  transition: border-color 0.2s ease-in-out
+
+.pasos-b__header__item__line-container:after, .pasos-b__header__item__line-container:before
+  content: ''
+  display: block
+  width: 50%
+  height: 3px
+  background-color: #26AAB7
+
+.pasos-b__header__item--before .pasos-b__header__item__line-container:before, .pasos-b__header__item--before .pasos-b__header__item__line-container:after 
+    background-color: #26AAB7
+
+.pasos-b__header__item--active .pasos-b__header__item__line-container:before
+  background-color: #26AAB7
+
+.pasos-b__header__item__dot
+  min-width: 40px
+  max-width: 40px
+  min-height: 40px
+  max-height: 40px
+  border: 3px solid #3a61f054
+  background-color: #fff
+  border-radius: 50%
+  position: relative
+
+.color-azul2
+  background-color: #DCECFC
+  border-radius: 0px
+
+.slyder-a__bullets__item--active 
+  background-color: #FB8C00!important
+  border: none
+
+.slyder-a__bullets__item
+  background-color: #26AAB7
+
+.color5
+  background-color: #C5F4FA
+  border-radius: 0px
