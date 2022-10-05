@@ -14,14 +14,14 @@
 
     .row.align-items-center.mb-4
       .col-md-7
-        <b> <FONT COLOR="#1565C0"> Google analytics </FONT> </b> es la herramienta que ofrece la posibilidad de realizar seguimiento a sitios web y redes sociales, suministrando contenido de un sitio web, dicho de otra manera, ayuda a medir y analizar lo que sucede en un sitio web. Analytics es una herramienta compatible con las demás herramientas de Google.
+        <b> <FONT COLOR="#1565C0"> Google analytics </FONT> </b> es la herramienta que ofrece la posibilidad de realizar seguimiento a sitios <i>web</i> y redes sociales, suministrando contenido de un sitio <i>web</i>, dicho de otra manera, ayuda a medir y analizar lo que sucede en un sitio <i>web</i>. Analytics es una herramienta compatible con las demás herramientas de Google.
       .col-md-4
         figure
           img(src='@/assets/curso/tema4/img1.jpg', alt='')
 
     .row.mb-4
       .cajon.color-acento-botones.p-4(style='background-color: #FFFAE7')
-        p Según el autor (Wikipedia, 2021) Analytics ofrece información agrupada del tráfico que llega a los sitios web según la audiencia, la adquisición, el comportamiento y las conversiones que se llevan a cabo en el sitio web.
+        p Según el autor (Wikipedia, 2021) Analytics ofrece información agrupada del tráfico que llega a los sitios <i>web</i> según la audiencia, la adquisición, el comportamiento y las conversiones que se llevan a cabo en el sitio <i>web</i>.
 
     .row.justify-content-center.mb-4
       .col-md-5
@@ -63,56 +63,56 @@
 
     .tarjeta.tarjeta-zul.p-4.mb-4
       PasosB.color-secundario
-        .row.align-items-center(titulo="Definir una estrategia:")
+        .row.align-items-center(titulo="Definir una estrategia")
           .col-md-8.mb-4.mb-md-0
             .row.justify-content-center
               .col-md-11
                 .tarjeta.color-azul2.p-4
                   h5 Recopilación de información
                   p.mb-3 El primer paso es la respuesta del servidor el cual envía la página que se solicita al navegador del usuario, en este proceso el navegador analiza la información y se pondrá en contacto con otros servidores. Así funciona el código de Google analytics.
-                  p.mb-3 Posteriormente el navegador del usuario que visita una página le solicita ese código a analytics. Acto seguido la plataforma lo envía y se guarda en un fichero.
-                  p.mb-3 <b>Una vez se almacena la información, el código crea cookies en el computador o dispositivo móvil del usuario.</b>
-                  p.mb-0 Una vez están definidas las cookies, el código envía la información al servidor de Google analytics con la solicitud de un fichero GIF invisible. Esta información es almacenada en otro fichero denominado fichero logs y crea un apartado de datos en el mismo por cada página visitada.
+                  p.mb-3 Posteriormente el navegador del usuario que visita una página le solicita ese código a <i>analytics</i>. Acto seguido la plataforma lo envía y se guarda en un fichero.
+                  p.mb-3 <b>Una vez se almacena la información, el código crea <i>cookies</i> en el computador o dispositivo móvil del usuario.</b>
+                  p.mb-0 Una vez están definidas las <i>cookies</i>, el código envía la información al servidor de Google analytics con la solicitud de un fichero GIF invisible. Esta información es almacenada en otro fichero denominado fichero <i>logs</i> y crea un apartado de datos en el mismo por cada página visitada.
           .col-md-3
             figure
               img(src='@/assets/curso/tema4/1.jpg', alt='')
 
-        .row.align-items-center(titulo="Definir el grupo objetivo:")
+        .row.align-items-center(titulo="Definir el grupo objetivo")
           .col-md-8.mb-4.mb-md-0
             .row.justify-content-center
               .col-md-11
                 .tarjeta.color-azul2.p-4
-                  h5 Procesamiento de información: 
-                  p en cuanto se compilan las acciones de los usuarios Google analytics empieza la reorganización en datos importantes que suministran información útil. 
+                  h5 Procesamiento de información 
+                  p En cuanto se compilan las acciones de los usuarios Google analytics empieza la reorganización en datos importantes que suministran información útil. 
           .col-md-3
             figure
               img(src='@/assets/curso/tema4/2.jpg', alt='')
 
-        .row.align-items-center(titulo="Análisis de la competencia:")
+        .row.align-items-center(titulo="Configuración Google analytics")
           .col-md-8.mb-4.mb-md-0
             .row.justify-content-center
               .col-md-11
                 .tarjeta.color-azul2.p-4
-                  h5 Configuración Google analytics: 
-                  p suministra su configuración a los datos sin procesar. Cuando se realiza el procesamiento de datos una vez almacenados en la base de datos no se podrán cambiar ni editar.
+                  h5 Configuración Google analytics 
+                  p Suministra su configuración a los datos sin procesar. Cuando se realiza el procesamiento de datos una vez almacenados en la base de datos no se podrán cambiar ni editar.
           .col-md-3
             figure
               img(src='@/assets/curso/tema4/3.jpg', alt='')
 
-        .row.align-items-center(titulo="Estrategia de contenidos:")
+        .row.align-items-center(titulo="Generación de informes")
           .col-md-8.mb-4.mb-md-0
             .row.justify-content-center
               .col-md-11
                 .tarjeta.color-azul2.p-4
-                  h5 Generación de informes: 
-                  p cuando se requiere mirar informes de se puede realizar a través del servicio web de Google analytics, estos informes se organizan en relación a diferenciaciones de rangos, dicho de otra manera, se organizan comportamientos como el lugar de un usuario o el porcentaje que llevan los usuarios en llevar a cabo una determinada acción. 
+                  h5 Generación de informes 
+                  p Cuando se requiere mirar informes de se puede realizar a través del servicio <i>web</i> de Google analytics, estos informes se organizan en relación a diferenciaciones de rangos, dicho de otra manera, se organizan comportamientos como el lugar de un usuario o el porcentaje que llevan los usuarios en llevar a cabo una determinada acción. 
           .col-md-3
             figure
               img(src='@/assets/curso/tema4/4.jpg', alt='')
     .row.mb-4
       .col-md-12
         .cajon-b.color-acento-contenido
-          p.mb-0 <b>Una de las cualidades de Google analytics es permitir saber el comportamiento de las campañas de marketing digital,</b>  es importante saber la manera de estructurar los objetivos, de esta forma se logrará obtener información valiosa para futuros cambios. Se pueden organizar objetivos que se quieran tales como el número de visitas de un usuario, cantidad de páginas visitadas, etc. <b>No obstante, se cuenta con la función de objetivos automáticos, estos son:</b>
+          p.mb-0 <b>Una de las cualidades de Google analytics es permitir saber el comportamiento de las campañas de <i>marketing</i> digital,</b>  es importante saber la manera de estructurar los objetivos, de esta forma se logrará obtener información valiosa para futuros cambios. Se pueden organizar objetivos que se quieran tales como el número de visitas de un usuario, cantidad de páginas visitadas, etc. <b>No obstante, se cuenta con la función de objetivos automáticos, estos son</b>
 
     .row.justify-content-center.align-items-center.mb-4
       .col-md-3
@@ -121,33 +121,35 @@
             figure.mb-2
               img(src='@/assets/curso/tema4/icon1.png', alt='')
           p.mb-2 <b>Destino</b>
-          p.mb-4 Encuentra la ubicación detallada  
+          p.mb-4 Encuentra la ubicación detallada.
       .col-md-3
         .tarjeta.color6.p-4
           .col-5
             figure.mb-2
               img(src='@/assets/curso/tema4/icon2.png', alt='')
           p.mb-2 <b>Duración</b>
-          p.mb-4 Define el tiempo de una visita
+          p.mb-4 Define el tiempo de una visita.
       .col-md-3
         .tarjeta.color6.p-4
           .col-5
             figure.mb-2
               img(src='@/assets/curso/tema4/icon3.png', alt='')
           p.mb-2 <b>Páginas</b>
-          p.mb-4 Cantidad de páginas visitadas en la misma visita
+          p.mb-4 Cantidad de páginas visitadas en la misma visita.
       .col-md-3
         .tarjeta.color6.p-4
           .col-5
             figure.mb-2
               img(src='@/assets/curso/tema4/icon4.png', alt='')
           p.mb-2 <b>Eventos</b>
-          p.mb-4 Inicia una acción que se haya definido anteriormente en un evento
+          p.mb-4 Inicia una acción que se haya definido anteriormente en un evento.
 
     .row.mb-4
       .col-md-3
         .tarjeta.colorsub.p-2
           h5.mb-0.text-center.text-white Interfaz de Google Analytics
+
+    p.mb-4 La versión más reciente es Google 4, es una interfaz muy amigable y fácil a la hora de utilizar, en la parte izquierda aparecen los informes que suministra Google, opciones de programación y administración, en la zona superior se puede programar un periodo de análisis, incorporar segmentos de información, también aparece la opción de descargar o exportar informes.
 
     .row.justify-content-center.align-items-center.mb-4
       .col-md-10
@@ -263,7 +265,7 @@
                 .tarjeta.color10.p-4
                   figure
                     img(src='@/assets/curso/tema4/icon9.png', alt='')
-                  p.mb-0.text-center Linea de flecha
+                  p.mb-0.text-center Línea de flecha
               .col-md-3
                 .tarjeta.color10.p-4
                   figure
@@ -310,15 +312,16 @@
                   p.mb-0 Observar la utilización del código.
                 li 
                   i.fas.fa-check
-                  p.mb-0 Presentar la organización de un sitio web o aplicación. 
+                  p.mb-0 Presentar la organización de un sitio <i>web</i> o aplicación. 
                 li 
                   i.fas.fa-check
-                  p.mb-0 Entender como los usuarios interactúan en un sitio web o programa. 
+                  p.mb-0 Entender como los usuarios interactúan en un sitio <i>web</i> o programa. 
               p.mb-0 Frecuentemente los desarrolladores pueden redactar un seudocódigo, una mezcla de lenguaje natural y lenguaje informático, que logre ser leído por los usuarios. Esto puede autorizar más detalle que el diagrama de flujo y ayudar como cambio del diagrama de flujo o como el siguiente procedimiento del código.
             .col-md-4
               figure
                 img(src='@/assets/curso/tema4/img3.jpg', alt='')
-    p.mb-4 <b>Diagramas relacionados implementados en el software.</b>
+    p.mb-4 <b>Diagramas relacionados implementados en el <i>software.</i></b>
+    p.mb-4 En la siguiente imagen se detalla un ejemplo de diagrama de flujo, relacionando con una actividad cotidiana.
     .row.justify-content-center.mb-4
       .col-md-10
         figure
@@ -328,7 +331,7 @@
       .col-md-3
         .tarjeta.colorsub.p-2
           h5.mb-0.text-center.text-white Clases de diagramas de flujo
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-5
       .col-md-8
         LineaTiempoD.color-linea
           .row.align-items-center(numero="1" titulo="Diagramas de flujos de sistemas") 
@@ -357,6 +360,7 @@
       .col-md-4
         figure
           img(src='@/assets/curso/tema4/img4.jpg', alt='')
+
     p.mb-4 <b>Existen otras herramientas para la creación de diagramas de flujo que se pueden utilizar on-line:</b>
 
     .row.mb-4
@@ -367,14 +371,14 @@
               .col-4
                 figure.mb-4
                   img(src='@/assets/curso/tema4/logo.png', alt='')
-              p.mb-0 es una herramienta diseñada para la creación de diagramas de flujo de una forma ágil y fácil, en el proceso de creación de un wireframe se debe dar clic en el botón “See chaarts” posteriormente definir entre las opciones de menús y plantillas a disposición. Esta herramienta tiene una particular característica es que se puede implementar para el trabajo en equipo simultáneamente. Es una interfaz amigable tiene una variedad en cuanto a diseños gráficos se refiere, simplemente basta con arrastrarlos y soltar sobre una hoja de trabajo, su variedad de herramientas permite interconectar de manera fácil, contiene la posibilidad de exportar a una imagen jpg. Esta herramienta es de uso gratuito.
+              p.mb-0 Es una herramienta diseñada para la creación de diagramas de flujo de una forma ágil y fácil, en el proceso de creación de un <i>wireframe</i> se debe dar clic en el botón “<i>See chaarts</i>” posteriormente definir entre las opciones de menús y plantillas a disposición. Esta herramienta tiene una particular característica es que se puede implementar para el trabajo en equipo simultáneamente. Es una interfaz amigable tiene una variedad en cuanto a diseños gráficos se refiere, simplemente basta con arrastrarlos y soltar sobre una hoja de trabajo, su variedad de herramientas permite interconectar de manera fácil, contiene la posibilidad de exportar a una imagen jpg. Esta herramienta es de uso gratuito.
             .col-md-5
               figure.mb-4
                 img(src='@/assets/curso/tema4/img5.png', alt='')
           .row.mb-4
             .color.color11.p-4
               p.mb-0 La herramienta Wireflow, es adecuada en el desarrollo de proyectos, una herramienta que funciona muy bien en metodologías ágiles. Su objetivo principal es documentar las interacciones: modificación de diseño, ventanas emergentes, comentarios.
-          p.mb-4 <b>En la elaboración de un wireflow hay que tener presente varios aspectos:</b>
+          p.mb-4 <b>En la elaboración de un <i>wireflow</i> hay que tener presente varios aspectos:</b>
           .row.mb-4 
             .col-md-12
               ul.lista-ul--color
@@ -401,7 +405,7 @@
               .col-5
                 figure.mb-4
                   img(src='@/assets/curso/tema4/logo1.jpg', alt='')
-              p.mb-4 funciona a partir de un registro o una cuenta en Google drive o OneDrive, y se puede trabajar en línea para su almacenamiento.
+              p.mb-4 Funciona a partir de un registro o una cuenta en Google drive o OneDrive, y se puede trabajar en línea para su almacenamiento.
               figure.mb-4
                 img(src='@/assets/curso/tema4/img1.png', alt='')
             .col-md-1
@@ -410,7 +414,7 @@
               .col-5
                 figure.mb-4
                   img(src='@/assets/curso/tema4/logo2.jpg', alt='')
-              p.mb-4 es una buena herramienta para la elaboración de diagramas de flujo, es un servicio online, ofrece una versión gratis y también una versión plus pagada, posee una interfaz fácil de usar con el método de arrastrar y soltar.
+              p.mb-4 Es una buena herramienta para la elaboración de diagramas de flujo, es un servicio <i>online</i>, ofrece una versión gratis y también una versión plus pagada, posee una interfaz fácil de usar con el método de arrastrar y soltar.
               figure.mb-4
                 img(src='@/assets/curso/tema4/img2.png', alt='')
 
@@ -422,7 +426,7 @@
               .col-5
                 figure.mb-4
                   img(src='@/assets/curso/tema4/logo2.png', alt='')
-              p.mb-4 funciona a partir de un registro o una cuenta en Google drive o OneDrive, y se puede trabajar en línea para su almacenamiento.
+              p.mb-4 Es un programa diseñado para la elaboración de diagramas de flujo, muy práctico a la hora de utilizarlo en los procesos de trabajo en equipo. brinda varias opciones de clases de diagramas y plantillas. 
               figure.mb-4
                 img(src='@/assets/curso/tema4/img5.jpg', alt='')
             .col-md-1
@@ -431,28 +435,27 @@
               .col-2
                 figure.mb-4
                   img(src='@/assets/curso/tema4/logo3.jpg', alt='')
-              p.mb-4 es una buena herramienta para la elaboración de diagramas de flujo, es un servicio online, ofrece una versión gratis y también una versión plus pagada, posee una interfaz fácil de usar con el método de arrastrar y soltar.
+              p.mb-4 Teniendo una cuenta en Google, se puede acceder a esta herramienta gratis, ingresando a la cuenta drive, posteriormente dar clic en crear nuevo y se escoge dibujos de Google. Es una herramienta muy fácil de utilizar a la hora de manipular los elementos basta como mover, arrastrar, cambiar tamaños dependiendo de lo que se requiera.
               figure.mb-4
                 img(src='@/assets/curso/tema4/img2.png', alt='')
+
     Separador
 
     #t_4_3.titulo-segundo.color-acento-botones
-      .h4 4.3	Wireflow 
+      .h4 4.4 Software de análisis pagos y gratuitos
 
-    p.mb-4 Saber y entender la importancia que cumplen las herramientas de análisis web, es una tarea ardua, muchas veces se cometen errores de diseñar estrategias y dejarlas que fluyan solas, sin hacerles el correspondiente seguimiento y comportamiento, cometer estos errores es catapultar al fracaso, esto sería como un barco a la deriva sin rumbo fijo.
+    p.mb-4 Saber y entender la importancia que cumplen las herramientas de análisis <i>web</i>, es una tarea ardua, muchas veces se cometen errores de diseñar estrategias y dejarlas que fluyan solas, sin hacerles el correspondiente seguimiento y comportamiento, cometer estos errores es catapultar al fracaso, esto sería como un barco a la deriva sin rumbo fijo.
     p.mb-4 Aquí una descripción de las herramientas más utilizadas, algunas de uso gratis y otras de método pagado.
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    Separador
-
+        iframe(width="942" height="530" src="https://www.youtube.com/embed/JUfI_XrNkrE" title="Software de análisis pagos y gratuitos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    
     #t_4_4.titulo-segundo.color-acento-botones
-      .h4 4.4 Software de análisis pagos y gratuitos
-
+      .h4 4.5 Sistemas de <i>feeback</i> para usuarios 
     .row.mb-4
       .col-md-7
-        p.mb-4 <b> <FONT COLOR="#1565C0"> Un feeback es la opinión que tiene alguien de un producto o servicio predeterminado que en algún momento alguien ha utilizado o consumido. </FONT> </b> Para realizar una cantidad de comentarios acerca de atributos se puede implementar el feeback para realizar este análisis y del servicio o producto determinado. 
-        p.mb-4 Para una compañía es importante el feeback de un cliente ya que permite saber y analizar la opinión de un cliente, un ejemplo puede ser el lanzamiento de un producto el cual inicia con unas ventas altas, pero en el transcurso de los días comienzan a disminuir. El feecbak puede ayudar a detectar esa situación y permitir recuperar nuevamente las ventas y elevarlas, preguntarles directamente a los clientes que piensan.
+        p.mb-4 <b> <FONT COLOR="#1565C0"> Un <i>feeback</i> es la opinión que tiene alguien de un producto o servicio predeterminado que en algún momento alguien ha utilizado o consumido. </FONT> </b> Para realizar una cantidad de comentarios acerca de atributos se puede implementar el <i>feeback</i> para realizar este análisis y del servicio o producto determinado. 
+        p.mb-4 Para una compañía es importante el <i>feeback</i> de un cliente ya que permite saber y analizar la opinión de un cliente, un ejemplo puede ser el lanzamiento de un producto el cual inicia con unas ventas altas, pero en el transcurso de los días comienzan a disminuir. El <i>feeback</i> puede ayudar a detectar esa situación y permitir recuperar nuevamente las ventas y elevarlas, preguntarles directamente a los clientes que piensan.
         p.mb-0 Darle importancia a la retroalimentación desde diferentes ángulos para abordarla con los clientes y aprovecharla al máximo en el desarrollo de nuevas estrategias. 
       .col-md-5
         figure
@@ -460,41 +463,41 @@
     .row.mb-4
       .col-md-3
         .tarjeta.colorsub.p-2
-          h5.mb-0.text-center.text-white Clases de feeback:
+          h5.mb-0.text-center.text-white Clases de <i>feeback</i>:
     
     .row.justify-content-center.align-items-center.mb-4
       .col-md-10
         SlyderF(columnas="col-lg-6 col-xl-4")
           .tarjeta.color13.p-4
-            h5.text-center Feedback directo 
+            h5.text-center <i>feeback</i> directo 
             p.text-center Se organiza de forma contundente y mensajes directos.
 
           .tarjeta.color13.p-4
-            h5.text-center Feedback indirecto
+            h5.text-center <i>feeback</i> indirecto
             p.text-center Desde donde se emite no es explícito ni claro.
 
           .tarjeta.color13.p-4
-            h5.text-center Feedback positivo
+            h5.text-center <i>feeback</i> positivo
             p.text-center Destaca las cualidades positivas de un producto o servicio.
 
           .tarjeta.color13.p-4
-            h5.text-center Feedback negativo
+            h5.text-center <i>feeback</i> negativo
             p.text-center Su finalidad es detallar las características negativas de una experiencia frente a un producto o servicio.
 
           .tarjeta.color13.p-4
-            h5.text-center Feedback constructivo
+            h5.text-center <i>feeback</i> constructivo
             p.text-center Su finalidad es dar un punto de vista objetivo y comunicar cualidades negativas como positivas al consumir un producto o servicio.
 
           .tarjeta.color13.p-4
-            h5.text-center Feedback general
+            h5.text-center <i>feeback</i> general
             p.text-center Brinda una opinión general acerca de un producto o servicio, sin involucrarse en cualidades específicas. 
 
           .tarjeta.color13.p-4
-            h5.text-center Feedback concreto
-            p.text-center Esta clase de feedback lo realizan quienes nombran atributos concretos de un producto o servicio.
+            h5.text-center <i>feeback</i> concreto
+            p.text-center Esta clase de <i>feeback</i> lo realizan quienes nombran atributos concretos de un producto o servicio.
 
           .tarjeta.color13.p-4
-            h5.text-center Feedback solicitado
+            h5.text-center <i>feeback</i> solicitado
             p.text-center La retroalimentación se realiza por solicitud, como en una encuesta o cuestionario la retroalimentación es solicitada.  
     .row.justify-content-center.align-items-center.mb-4
       .col-md-10
@@ -504,12 +507,12 @@
               figure
                 img(src='@/assets/curso/tema4/img4.png', alt='')
             .col-md-10
-              p.mb-4 <b>Se recomienda implementar un feedback en tres escenarios diferentes:</b> posteriormente de haber realizado el lanzamiento de un producto o servicio, cuando se determina un cambio brusco en el proceso de un producto o servicio y cuando un producto o servicio se conserva estancado.
-              p.mb-4 <b> Esto no quiere decir que en el momento que se pretenda o decida implementarlos no se pueda hacer, lo más importante es determinar cuál es el feedback más adecuado para lo que se pretenda hacer.</b>
+              p.mb-4 <b>Se recomienda implementar un <i>feeback</i> en tres escenarios diferentes:</b> posteriormente de haber realizado el lanzamiento de un producto o servicio, cuando se determina un cambio brusco en el proceso de un producto o servicio y cuando un producto o servicio se conserva estancado.
+              p.mb-4 <b> Esto no quiere decir que en el momento que se pretenda o decida implementarlos no se pueda hacer, lo más importante es determinar cuál es el <i>feeback</i> más adecuado para lo que se pretenda hacer.</b>
     .row.mb-4
       .col-md-3
         .tarjeta.colorsub.p-2
-          h5.mb-0.text-center.text-white Estrategias para conseguir feedback:  
+          h5.mb-0.text-center.text-white Estrategias para conseguir <i>feeback</i>:  
 
     .row.mb-4
       .col-md-7
@@ -520,19 +523,19 @@
 
           .row(titulo="Encuestas SMS")
             .col-md-12.mb-4.mb-md-0
-              p Los mensajes son uno de los métodos más fuertes que hay para solicitar un feedback a un cliente. En la actualidad la mayoría de usuarios poseen un dispositivo móvil, haciendo que los mensajes sean una gran forma de crear una cercanía con el cliente.   
+              p Los mensajes son uno de los métodos más fuertes que hay para solicitar un <i>feeback</i> a un cliente. En la actualidad la mayoría de usuarios poseen un dispositivo móvil, haciendo que los mensajes sean una gran forma de crear una cercanía con el cliente.   
 
           .row(titulo="Cuestionarios en una red Wi-Fi")
             .col-md-12.mb-4.mb-md-0
               p Esta estrategia es muy común verlas en establecimientos de comercio, hoteles, centros comerciales. Sencillamente por otorgar el servicio Wi-Fi gratis, previamente aparece un pequeño cuestionario de preguntas, una vez el usuario las suministra tiene acceso al servicio Wi-Fi. Actualmente se implementa bastante.
 
-          .row(titulo="Tarjetas feedback")
+          .row(titulo="Tarjetas <i>feeback</i>")
             .col-md-12.mb-4.mb-md-0
               p Este es un método tradicional para crear físicamente formularios, cuestionarios para la recolección de opinión de un cliente, aunque funciona implica más tiempo y gastos.
 
           .row(titulo="Transcripciones de chat en vivo")
             .col-md-12.mb-4.mb-md-0
-              p Este método ha captado la atención a clientes, revisar las transcripciones de los chats y organizar las opiniones en diferentes categorías servirán para conocer las debilidades en un negocio. También permitirá incrementar la satisfacción de los clientes y simplificar significativamente los recursos asignados al área de atención al cliente.
+              p Este método ha captado la atención a clientes, revisar las transcripciones de los <i>chats</i> y organizar las opiniones en diferentes categorías servirán para conocer las debilidades en un negocio. También permitirá incrementar la satisfacción de los clientes y simplificar significativamente los recursos asignados al área de atención al cliente.
 
           .row(titulo="Entrevistas al cliente")
             .col-md-12.mb-4.mb-md-0

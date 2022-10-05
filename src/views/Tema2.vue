@@ -7,11 +7,12 @@
         span 2
       h1 Fundamentos de posicionamiento SEM
 
-    p.mb-4 El SEM son las siglas de Search Engine Marketing, es decir conjunto de técnicas de mercadotecnia que se utiliza para estrategias que nos ayudan a obtener mejor impacto en buscadores generando de esta forma recibir más tráfico en páginas y sitios web a través de un mecanismo de búsqueda. 
+    p.mb-4 El SEM son las siglas de Search Engine Marketing, es decir conjunto de técnicas de mercadotecnia que se utiliza para estrategias que nos ayudan a obtener mejor impacto en buscadores generando de esta forma recibir más tráfico en páginas y sitios <i>web</i> a través de un mecanismo de búsqueda. 
     p.mb-4 <b>Para conocer con mayor precisión en qué consiste el posicionamiento SEM, se podrá ver el siguiente video:</b>
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="942" height="530" src="https://www.youtube.com/embed/ne_yaOOLL5Q" title="Posicionamiento SEM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
     .row.mb-4
       .col-md-12.col-12
         .bloque-texto-g.color-gris.p-5.p-sm-4.p-md-5
@@ -19,7 +20,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/tema2/img1.jpg')})`}"
           )
           .bloque-texto-g__texto.p-5.mb-5
-            p <b> <FONT COLOR="#1565C0"> El SEM es el marketing en redes sociales (smm) </FONT> </b> que se busca en la explotación de medios sociales para influir en los usuarios y así persuadirlos hacia la compra de un producto o servicio.
+            p <b> <FONT COLOR="#1565C0"> El SEM es el <i>marketing</i> en redes sociales (smm) </FONT> </b> que se busca en la explotación de medios sociales para influir en los usuarios y así persuadirlos hacia la compra de un producto o servicio.
 
     #t_2_1.titulo-segundo.color-acento-botones
       .h4 2.1	Componentes SEM
@@ -45,7 +46,7 @@
                 | Una buena redacción en el anuncio a pautar.
               li 
                 i.fas.fa-check
-                | Implementación de landing pages que conlleven a la acción. 
+                | Implementación de landing <i>pages</i> que conlleven a la acción. 
               li 
                 i.fas.fa-check
                 | Estrategias de proporción, la publicidad se maneja por temporalidades esto quiere decir que se debe aprovechar al máximo fechas importantes, definir cómo y cuándo aplicarlas.
@@ -63,28 +64,28 @@
                 img(src='@/assets/curso/tema2/avatar1.svg' alt='')
                 .tarjeta.color-tarjeta
                   .text-black.p-4
-                    h5.text-center Crece el tráfico en la web: 
-                    p.mb-0 Realizando un buen trabajo SEM se consigue obtener mejores visitas de nuestra web, teniendo en cuenta que los objetivos pueden ser variados desde ofrecer nuestro producto de hecho hasta potenciar nuestra marca. Por esta razón es importante ajustar las campañas a los objetivos determinados.
+                    h5.text-center Crece el tráfico en la <i>web</i>
+                    p.mb-0 Realizando un buen trabajo SEM se consigue obtener mejores visitas de nuestra <i>web</i>, teniendo en cuenta que los objetivos pueden ser variados desde ofrecer nuestro producto de hecho hasta potenciar nuestra marca. Por esta razón es importante ajustar las campañas a los objetivos determinados.
 
               .tarjeta-avatar
                 img(src='@/assets/curso/tema2/avatar2.svg' alt='')
                 .tarjeta.color-tarjeta
                   .text-black.p-4
-                    h5.text-center Posicionamiento rápido:
+                    h5.text-center Posicionamiento rápido
                     p.mb-0 Resultado en menor tiempo, especialmente si lo relacionamos con las técnicas SEO las cuales funcionan a mediano y largo plazo mientras que si se cuenta con el presupuesto en poco tiempo la compañía recibirá vistas de inmediato.
 
               .tarjeta-avatar
                 img(src='@/assets/curso/tema2/avatar3.svg' alt='')
                 .tarjeta.color-tarjeta
                   .text-black.p-4
-                    h5.text-center Presupuesto personalizado: 
+                    h5.text-center Presupuesto personalizado
                     p.mb-0 Controlar y ajustar el presupuesto y así definir al máximo lo que estamos dispuesto a desembolsar en la compaña. Cuanto se invertirá día tras día y lo que estamos dispuestos a pagar por cada clic (CPC) por lo que se estudiará si realmente conseguimos una oportunidad de venta o conversión.
 
               .tarjeta-avatar
                 img(src='@/assets/curso/tema2/avatar4.svg' alt='')
                 .tarjeta.color-tarjeta
                   .text-black.p-4
-                    h5.text-center Poder de segmentación:
+                    h5.text-center Poder de segmentación
                     p.mb-0 Dependiendo se puede escoger un público objetivo a comparación del SEO. Se puede instaurar en base a unos criterios como edad, comportamiento, palabra clave o localización.
     Separador
 
@@ -104,7 +105,7 @@
                 figure
                   img(src='@/assets/curso/tema2/punto.svg' alt='')
               h5.mb-1 Acciones de pago
-              p.mb-0 Corresponde al protocolo de pago por click, dicho de otra forma, únicamente se cancela por clicks recibidos por usuarios.
+              p.mb-0 Corresponde al protocolo de pago por <i>click</i>, dicho de otra forma, únicamente se cancela por clicks recibidos por usuarios.
 
             .tarjeta-numerada.color-acento-contenido.p-4.mb-4
               .tarjeta-numerada__numero
@@ -125,7 +126,7 @@
                 figure
                   img(src='@/assets/curso/tema2/punto.svg' alt='')
               h5.mb-1 Estrategia de fusión
-              p.mb-0 Diseñar una estrategia de marketing digital, fusionando estrategias de SEM y estrategias de SEO, se logrará obtener posicionamiento a corto, mediano y largo plazo, no se trata de tomar una opción entre las dos, sencillamente las dos son el complemento adecuado para el desarrollo de una buena estrategia de marketing digital.
+              p.mb-0 Diseñar una estrategia de <i>marketing</i> digital, fusionando estrategias de SEM y estrategias de SEO, se logrará obtener posicionamiento a corto, mediano y largo plazo, no se trata de tomar una opción entre las dos, sencillamente las dos son el complemento adecuado para el desarrollo de una buena estrategia de <i>marketing</i> digital.
 
       .col-md-2
         span
@@ -139,29 +140,22 @@
               .tarjeta-numerada1__numero
                 figure
                   img(src='@/assets/curso/tema2/punto2.svg' alt='')
-              h5.mb-1 Acciones de pago
+              h5.mb-1 Desaparición rápida
               p.mb-0 Corresponde al protocolo de pago por click, dicho de otra forma, únicamente se cancela por clicks recibidos por usuarios.
 
             .tarjeta-numerada1.color-acento-contenido.p-4.mb-4
               .tarjeta-numerada1__numero
                 figure
                   img(src='@/assets/curso/tema2/punto2.svg' alt='')
-              h5.mb-1 Posicionamiento rápido
-              p.mb-0 Con la técnica SEM, se obtiene un proceso de posicionamiento más pronto en un tiempo más corto, el objetivo de la pauta paga, es buscar un lugar dentro de las primeras posiciones de Google.
+              h5.mb-1 El éxito no está garantizado
+              p.mb-0 Sin las palabras claves correctas, es probable que los usuarios atraídos no sea el anhelado. De esta manera se tratará de simples visitas que no tendrán impacto en el ROI (Retorno de la Inversión)
 
             .tarjeta-numerada1.color-acento-contenido.p-4.mb-4
               .tarjeta-numerada1__numero
                 figure
                   img(src='@/assets/curso/tema2/punto2.svg' alt='')
-              h5.mb-1 Utilización de Google Ads
-              p.mb-0 La implementación de la herramienta Google Ads, sirve para realizar campañas SEM, de la manera que se quiera y realizar pagos solamente por los resultados que se hayan obtenido.
-
-            .tarjeta-numerada1.color-acento-contenido.p-4.mb-4
-              .tarjeta-numerada1__numero
-                figure
-                  img(src='@/assets/curso/tema2/punto2.svg' alt='')
-              h5.mb-1 Estrategia de fusión
-              p.mb-0 Diseñar una estrategia de marketing digital, fusionando estrategias de SEM y estrategias de SEO, se logrará obtener posicionamiento a corto, mediano y largo plazo, no se trata de tomar una opción entre las dos, sencillamente las dos son el complemento adecuado para el desarrollo de una buena estrategia de marketing digital.
+              h5.mb-1 Genera menos confianza que el SEO
+              p.mb-0 los públicos ya saben diferenciar sobre el efecto orgánico y los resultados de pago. Saben que cualquier sitio web puede aparecer en las primeras posiciones solo activando una campaña así generando desconfianza, mientras que con los resultados orgánicos no pasa. Una compañía que aparece en las primeras posiciones de manera SEO significa que hace una buena labor.
     separador
     
 </template>

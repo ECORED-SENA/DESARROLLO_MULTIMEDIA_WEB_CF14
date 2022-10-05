@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Posicionamiento del proyecto multimedia',
     descripcionCurso:
-      'En este componente, se conceptualizan los fundamentos, técnicas y aplicaciones de las herramientas SEO Y SEM, en el desarrollo de estrategias para el marketing digital, así mismo herramientas de auditoría y seguimiento, como Google analitycs, herramientas de flujo de usuarios como wireflow, respuestas reacciones y feedback.',
+      'En este componente, se conceptualizan los fundamentos, técnicas y aplicaciones de las herramientas SEO Y SEM, en el desarrollo de estrategias para el <i>marketing</i> digital, así mismo herramientas de auditoría y seguimiento, como Google analitycs, herramientas de flujo de usuarios como <i>wireflow</i>, respuestas reacciones y <i>feedback.</i>',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -100,48 +100,37 @@ export default {
         nombreRuta: 'tema4',
         icono: 'far fa-file-alt',
         numero: '4',
-        titulo: 'Aplicaciones de técnicas de posicionamiento',
+        titulo: 'Herramientas para pruebas',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '4.1',
-            titulo: 'Aplicación de técnicas SEO',
+            titulo: 'Google analytics',
             hash: 't_4_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '4.2',
-            titulo: 'Aplicación de técnicas SEM',
+            titulo: 'Diagrama de flujo',
             hash: 't_4_2',
           },
           {
             icono: 'far fa-file-alt',
             numero: '4.3',
-            titulo: 'Aplicación de técnicas SEO',
+            titulo: 'Software de análisis pagos y gratuitos',
             hash: 't_4_3',
           },
           {
             icono: 'far fa-file-alt',
             numero: '4.4',
-            titulo: 'Aplicación de técnicas SEM',
+            titulo: 'Sistemas de feedback para usuarios ',
             hash: 't_4_4',
           },
         ],
       },
     ],
     subMenu: [
-      {
-        icono: 'fas fa-sitemap',
-        titulo: 'Síntesis',
-        nombreRuta: 'sintesis',
-      },
-      {
-        nombreRuta: 'actividad',
-        icono: 'far fa-question-circle',
-        titulo: 'Actividad didáctica',
-        desarrolloContenidos: true,
-      },
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
@@ -259,42 +248,42 @@ export default {
     {
       termino: 'SEM',
       significado:
-        'El SEM, las siglas de Search Engine Marketing, hace referencia al marketing y publicidad que se realiza en los distintos motores de búsqueda. Concretamente, se refiere a todas aquellas acciones de pago que se pueden realizar en los buscadores o en las páginas web y que tienen como objetivo captar tráfico e incrementar la visibilidad de los negocios rápidamente (Cámara Zamora, 2020).',
+        'El SEM, las siglas de Search Engine Marketing, hace referencia al <i>marketing</i> y publicidad que se realiza en los distintos motores de búsqueda. Concretamente, se refiere a todas aquellas acciones de pago que se pueden realizar en los buscadores o en las páginas <i>web</i> y que tienen como objetivo captar tráfico e incrementar la visibilidad de los negocios rápidamente (Cámara Zamora, 2020).',
     },
     {
       termino: 'SEO',
       significado:
-        'SEO son las iniciales en inglés de Search Engine Optimization (optimización para motores de búsqueda). Se puede definir como “conjunto de acciones que se realizan para mejorar la visibilidad de un portal de internet en los resultados orgánicos de los distintos buscadores” (Francisco, 2021).',
+        'SEO son las iniciales en inglés de <i>Search Engine Optimization</i> (optimización para motores de búsqueda). Se puede definir como “conjunto de acciones que se realizan para mejorar la visibilidad de un portal de internet en los resultados orgánicos de los distintos buscadores” (Francisco, 2021).',
     },
     {
-      termino: 'Responsive',
+      termino: '<i>Responsive</i>',
       significado:
-        'Diseño web responsive es una manera de diseñar y codificar un sitio web que hace que cada elemento de la navegación del sitio sea ajustable basado en el tamaño de pantalla. Texto, imágenes y vídeos, todos se mueven en su posición apropiada sobre la base de qué tan grande es el espacio de visualización disponible (internet ya, 2020).',
+        'Diseño <i>web responsive</i> es una manera de diseñar y codificar un sitio <i>web</i> que hace que cada elemento de la navegación del sitio sea ajustable basado en el tamaño de pantalla. Texto, imágenes y videos, todos se mueven en su posición apropiada sobre la base de qué tan grande es el espacio de visualización disponible (internet ya, 2020).',
     },
     {
       termino: 'Google Analytis',
       significado:
-        'La herramienta te permite hacer un seguimiento de sitios web, blogs y redes sociales. Además, pone a tu disposición informes predeterminados y personalizables. (antevenio, 2015).',
+        'La herramienta te permite hacer un seguimiento de sitios <i>web, blogs</i> y redes sociales. Además, pone a tu disposición informes predeterminados y personalizables. (antevenio, 2015).',
     },
     {
-      termino: 'Backlinks',
+      termino: '<i>Backlinks</i>',
       significado:
-        'Los backlinks son enlaces dispuestos en un texto que dirigen al lector a otro sitio que tenga contenido relacionado con lo que está leyendo (rock content, 2018).',
+        'Los backlinks son enlaces dispuestos en un texto que dirigen al lector a otro sitio que tenga contenido relacionado con lo que está leyendo (<i>rock content,</i> 2018).',
     },
     {
       termino: 'SEmRush',
       significado:
-        'La herramienta semrush, se utiliza principalmente para analizar datos relacionados con el ámbito del SEO, es decir, posicionamiento web, como también para elaborar estrategias para conseguir backlinks hacia una web o construir publicidad (Pastoriza, A., 2018).',
+        'La herramienta semrush, se utiliza principalmente para analizar datos relacionados con el ámbito del SEO, es decir, posicionamiento <i>web</i>, como también para elaborar estrategias para conseguir <i>backlinks</i> hacia una <i>web</i> o construir publicidad (Pastoriza, A., 2018).',
     },
     {
-      termino: 'Landing page',
+      termino: '<i>Landing page</i>',
       significado:
-        'Una Landing Page (página de aterrizaje) es una página dentro de un sitio web, desarrollada con el único objetivo de convertir los visitantes en Leads o prospectos de ventas por medio de una oferta determinada. Generalmente tiene un diseño más sencillo con pocos enlaces e informaciones básicas sobre la oferta, además de un formulario para realizar la conversión (RD Station, 2018).',
+        'Una <i>Landing Page</i> (página de aterrizaje) es una página dentro de un sitio <i>web</i>, desarrollada con el único objetivo de convertir los visitantes en Leads o prospectos de ventas por medio de una oferta determinada. Generalmente tiene un diseño más sencillo con pocos enlaces e informaciones básicas sobre la oferta, además de un formulario para realizar la conversión (RD Station, 2018).',
     },
     {
-      termino: 'Wireflow',
+      termino: '<i>Wireflow</i>',
       significado:
-        'Los wireflows son elementos que comunican con mayor claridad gran parte de las necesidades de un producto, porque son capaces de mostrar una visión general y contextualizada. Esto ayuda a entender mejor los flujos de navegación, las interacciones entre pantallas y, en consecuencia, a desarrollar una mejor experiencia de usuario (Oliva, J., 2021).',
+        'Los <i>wireflows</i> son elementos que comunican con mayor claridad gran parte de las necesidades de un producto, porque son capaces de mostrar una visión general y contextualizada. Esto ayuda a entender mejor los flujos de navegación, las interacciones entre pantallas y, en consecuencia, a desarrollar una mejor experiencia de usuario (Oliva, J., 2021).',
     },
     {
       termino: 'Feedback',
@@ -356,46 +345,79 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Leyson Fabian Castaño Perez',
-        cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
-      },
-      {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: 'Carlos Ramirez',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Carlos Mauricio Gómez Delgado',
         cargo: 'Desarrollo Front-End',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Yuli Marcela Gómez Tarazona',
+        cargo: 'Validación de diseño y contenido',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Zuleidy Maria Ruiz Torres',
+        cargo: 'Revisión de guion',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Camilo Andrés Bolaño Rey',
+        cargo: 'Locución',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Estefani Daniela Gallo Cortés',
+        cargo: 'Ilustración',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Miguel Guerrero Gutiérrez',
+        cargo: 'Ilustración',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Wilson Andrés Caceres Arenales',
+        cargo: 'Validación ilustración',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'John Jairo Arciniegas González',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Validación de diseño y contenido',
+        nombre: 'Erika Viviana Sandoval Rojas',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Laura Ximena Hurtado Villalba',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Gilberto Junior Rodriguez Rodriguez',
+        cargo: 'Validación audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
     ],
     gestoresRepositorio: [
-      {
-        nombre: 'Álvaro Andrés Angarita Ramirez',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
-      },
-      {
-        nombre: 'Daniel Felipe Varón Molina',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
-      },
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
