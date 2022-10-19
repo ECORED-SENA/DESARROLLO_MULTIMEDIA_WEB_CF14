@@ -221,37 +221,6 @@
             span
           .col-md-2
             span
-    p.mb-4 <b>Para posibilitar el mejoramiento se debe llevar a cabo lo siguiente:</b> 
-    .row.justify-content-center.align-items-center.mb-4
-      .col-md-7
-        LineaTiempoD.color-linea
-          .row.align-items-center(numero="1" titulo="Definir cómo será la navegación") 
-            .col-md-12
-              p se debe tener presente que la página de inicio es donde el usuario inicia su visita y, por lo tanto, a través de ella el usuario debe ser capaz de llegar al contenido que busca.
-
-          .row.align-items-center(numero="2" titulo="Organizar una arquitectura del sitio web fluida y natural:")
-            .col-md-12
-              p para tener éxito en este punto, hay que tener claridad respecto a qué función tiene una página en particular en relación al sitio web en general. Por ejemplo, puede ser una página cuyo contenido sea más general y que tenga enlaces a contenido más específico.
-
-          .row.align-items-center(numero="4" titulo="Utiliza las “migas de pan”:") 
-            .col-md-12
-              p si tu sitio web tiene mucho contenido y secciones, las “migas de pan” o “breadcrumbs”, le ayudarán al usuario a saber en qué lugar del sitio web se encuentra. Esto le otorga al sitio mayor organización y a Google le encantará.
-              ul.lista-ul--color
-                li 
-                  i.fas.fa-check
-                  | Crea un mapa del sitio.
-                li 
-                  i.fas.fa-check
-                  | Crea un mapa del sitio.
-                li 
-                  i.fas.fa-check
-                  | Optimiza el contenido del sitio web.
-                li 
-                  i.fas.fa-check
-                  | Optimizar la información de la web es fundamental.
-      .col-md-5
-        figure
-          img(src='@/assets/curso/tema1/img12.png', alt='')
     Separador
 
     #t_3_2.titulo-segundo.color-acento-botones
@@ -389,17 +358,18 @@
                   SlyderA(tipo="b")
                     .row
                       .col-md-12.mb-4.mb-md-0
-                        p.mb-0 <b>Nivel de calidad (<i>Quality score</i>):</b> ayuda a proporcionar información de costos y ubicación de anuncios.
+                        h5 <b>Nivel de calidad (<i>Quality score</i>)</b> 
+                        p.mb-0 Ayuda a proporcionar información de costos y ubicación de anuncios.
 
                     .row
                       .col-md-12.mb-4.mb-md-0
                         h5 Cuota de impresiones:
-                        p.mb-0  (<i>Impression share</i>): sirve para obtener información si los usuarios están observando los anuncios.
+                        p.mb-0  (<i>Impression share</i>) sirve para obtener información si los usuarios están observando los anuncios.
 
                     .row
                       .col-md-12.mb-4.mb-md-0
-                        h5 Porcentajes de clics (CTR):
-                        p.mb-0 permite identificar la cantidad de veces que los usuarios que miran un anuncio terminan dando clic en el mismo anuncio, con el fin de segmentarlos en números de clics entre la cantidad de impresiones. 
+                        h5 Porcentajes de clics (CTR)
+                        p.mb-0 Permite identificar la cantidad de veces que los usuarios que miran un anuncio terminan dando clic en el mismo anuncio, con el fin de segmentarlos en números de clics entre la cantidad de impresiones. 
  
 </template>
 

@@ -29,7 +29,7 @@
 
     .row.justify-content-center.align-items-center.mb-4
       .tarjeta.color1.p-4
-        .row 
+        .row.align-items-center
           .col-md-4
             figure
               img(src='@/assets/curso/tema2/img1.png', alt='Texto que describa la imagen')
@@ -37,19 +37,19 @@
             ul.lista-ul--color
               li 
                 i.fas.fa-check
-                | Una estrategia acorde en la definición de palabras clave.
+                p.mb-1 Una estrategia acorde en la definición de palabras clave.
               li 
                 i.fas.fa-check
-                | Definir la inversión de la campaña, definición geográfica.
+                p.mb-1 Definir la inversión de la campaña, definición geográfica.
               li 
                 i.fas.fa-check
-                | Una buena redacción en el anuncio a pautar.
+                p.mb-1 Una buena redacción en el anuncio a pautar.
               li 
                 i.fas.fa-check
-                | Implementación de landing <i>pages</i> que conlleven a la acción. 
+                p.mb-1 Implementación de <em> landing pages </em> que conlleven a la acción. 
               li 
                 i.fas.fa-check
-                | Estrategias de proporción, la publicidad se maneja por temporalidades esto quiere decir que se debe aprovechar al máximo fechas importantes, definir cómo y cuándo aplicarlas.
+                p.mb-1 Estrategias de proporción, la publicidad se maneja por temporalidades esto quiere decir que se debe aprovechar al máximo fechas importantes, definir cómo y cuándo aplicarlas.
     p.mb-4 <b>Para tener una buena estrategia SEM se deben reconocer las ventajas que tiene:</b>
 
     .row.justify-content-center.align-items-center.mb-4
@@ -141,7 +141,7 @@
                 figure
                   img(src='@/assets/curso/tema2/punto2.svg' alt='')
               h5.mb-1 Desaparición rápida
-              p.mb-0 Corresponde al protocolo de pago por click, dicho de otra forma, únicamente se cancela por clicks recibidos por usuarios.
+              p.mb-0 Corresponde al protocolo de pago por <em>click</em>, dicho de otra forma, únicamente se cancela por clicks recibidos por usuarios.
 
             .tarjeta-numerada1.color-acento-contenido.p-4.mb-4
               .tarjeta-numerada1__numero
@@ -155,7 +155,7 @@
                 figure
                   img(src='@/assets/curso/tema2/punto2.svg' alt='')
               h5.mb-1 Genera menos confianza que el SEO
-              p.mb-0 los públicos ya saben diferenciar sobre el efecto orgánico y los resultados de pago. Saben que cualquier sitio web puede aparecer en las primeras posiciones solo activando una campaña así generando desconfianza, mientras que con los resultados orgánicos no pasa. Una compañía que aparece en las primeras posiciones de manera SEO significa que hace una buena labor.
+              p.mb-0 Los públicos ya saben diferenciar sobre el efecto orgánico y los resultados de pago. Saben que cualquier sitio <em>web</em> puede aparecer en las primeras posiciones solo activando una campaña así generando desconfianza, mientras que con los resultados orgánicos no pasa. Una compañía que aparece en las primeras posiciones de manera SEO significa que hace una buena labor.
     separador
     
 </template>

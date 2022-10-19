@@ -118,13 +118,13 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '4.3',
-            titulo: 'Software de análisis pagos y gratuitos',
+            titulo: '<i>Software</i> de análisis pagos y gratuitos',
             hash: 't_4_3',
           },
           {
             icono: 'far fa-file-alt',
             numero: '4.4',
-            titulo: 'Sistemas de feedback para usuarios ',
+            titulo: 'Sistemas de <i>feedback</i> para usuarios ',
             hash: 't_4_4',
           },
         ],
@@ -248,47 +248,47 @@ export default {
     {
       termino: 'SEM',
       significado:
-        'El SEM, las siglas de Search Engine Marketing, hace referencia al <i>marketing</i> y publicidad que se realiza en los distintos motores de búsqueda. Concretamente, se refiere a todas aquellas acciones de pago que se pueden realizar en los buscadores o en las páginas <i>web</i> y que tienen como objetivo captar tráfico e incrementar la visibilidad de los negocios rápidamente (Cámara Zamora, 2020).',
+        ' El SEM, las siglas de Search Engine Marketing, hace referencia al <i>marketing</i> y publicidad que se realiza en los distintos motores de búsqueda. Concretamente, se refiere a todas aquellas acciones de pago que se pueden realizar en los buscadores o en las páginas <i>web</i> y que tienen como objetivo captar tráfico e incrementar la visibilidad de los negocios rápidamente (Cámara Zamora, 2020).',
     },
     {
       termino: 'SEO',
       significado:
-        'SEO son las iniciales en inglés de <i>Search Engine Optimization</i> (optimización para motores de búsqueda). Se puede definir como “conjunto de acciones que se realizan para mejorar la visibilidad de un portal de internet en los resultados orgánicos de los distintos buscadores” (Francisco, 2021).',
+        ' SEO son las iniciales en inglés de <i>Search Engine Optimization</i> (optimización para motores de búsqueda). Se puede definir como “conjunto de acciones que se realizan para mejorar la visibilidad de un portal de internet en los resultados orgánicos de los distintos buscadores” (Francisco, 2021).',
     },
     {
       termino: '<i>Responsive</i>',
       significado:
-        'Diseño <i>web responsive</i> es una manera de diseñar y codificar un sitio <i>web</i> que hace que cada elemento de la navegación del sitio sea ajustable basado en el tamaño de pantalla. Texto, imágenes y videos, todos se mueven en su posición apropiada sobre la base de qué tan grande es el espacio de visualización disponible (internet ya, 2020).',
+        ' Diseño <i>web responsive</i> es una manera de diseñar y codificar un sitio <i>web</i> que hace que cada elemento de la navegación del sitio sea ajustable basado en el tamaño de pantalla. Texto, imágenes y videos, todos se mueven en su posición apropiada sobre la base de qué tan grande es el espacio de visualización disponible (internet ya, 2020).',
     },
     {
       termino: 'Google Analytis',
       significado:
-        'La herramienta te permite hacer un seguimiento de sitios <i>web, blogs</i> y redes sociales. Además, pone a tu disposición informes predeterminados y personalizables. (antevenio, 2015).',
+        ' La herramienta te permite hacer un seguimiento de sitios <i>web, blogs</i> y redes sociales. Además, pone a tu disposición informes predeterminados y personalizables. (antevenio, 2015).',
     },
     {
       termino: '<i>Backlinks</i>',
       significado:
-        'Los backlinks son enlaces dispuestos en un texto que dirigen al lector a otro sitio que tenga contenido relacionado con lo que está leyendo (<i>rock content,</i> 2018).',
+        ' Los backlinks son enlaces dispuestos en un texto que dirigen al lector a otro sitio que tenga contenido relacionado con lo que está leyendo (<i>rock content,</i> 2018).',
     },
     {
       termino: 'SEmRush',
       significado:
-        'La herramienta semrush, se utiliza principalmente para analizar datos relacionados con el ámbito del SEO, es decir, posicionamiento <i>web</i>, como también para elaborar estrategias para conseguir <i>backlinks</i> hacia una <i>web</i> o construir publicidad (Pastoriza, A., 2018).',
+        ' La herramienta semrush, se utiliza principalmente para analizar datos relacionados con el ámbito del SEO, es decir, posicionamiento <i>web</i>, como también para elaborar estrategias para conseguir <i>backlinks</i> hacia una <i>web</i> o construir publicidad (Pastoriza, A., 2018).',
     },
     {
       termino: '<i>Landing page</i>',
       significado:
-        'Una <i>Landing Page</i> (página de aterrizaje) es una página dentro de un sitio <i>web</i>, desarrollada con el único objetivo de convertir los visitantes en Leads o prospectos de ventas por medio de una oferta determinada. Generalmente tiene un diseño más sencillo con pocos enlaces e informaciones básicas sobre la oferta, además de un formulario para realizar la conversión (RD Station, 2018).',
+        ' Una <i>Landing Page</i> (página de aterrizaje) es una página dentro de un sitio <i>web</i>, desarrollada con el único objetivo de convertir los visitantes en Leads o prospectos de ventas por medio de una oferta determinada. Generalmente tiene un diseño más sencillo con pocos enlaces e informaciones básicas sobre la oferta, además de un formulario para realizar la conversión (RD Station, 2018).',
     },
     {
       termino: '<i>Wireflow</i>',
       significado:
-        'Los <i>wireflows</i> son elementos que comunican con mayor claridad gran parte de las necesidades de un producto, porque son capaces de mostrar una visión general y contextualizada. Esto ayuda a entender mejor los flujos de navegación, las interacciones entre pantallas y, en consecuencia, a desarrollar una mejor experiencia de usuario (Oliva, J., 2021).',
+        ' Los <em>wireflows</em> son elementos que comunican con mayor claridad gran parte de las necesidades de un producto, porque son capaces de mostrar una visión general y contextualizada. Esto ayuda a entender mejor los flujos de navegación, las interacciones entre pantallas y, en consecuencia, a desarrollar una mejor experiencia de usuario (Oliva, J., 2021).',
     },
     {
-      termino: 'Feedback',
+      termino: '<em>Feedback</em>',
       significado:
-        'La retroalimentación o feedback es la opinión que alguien tiene de un servicio o producto determinado del que ha hecho uso o que ha consumido. Al reunir y gestionar un gran número de opiniones podemos utilizar el feedback como una herramienta para crear una evaluación del servicio o producto en cuestión (hudspot, 2021).',
+        ' La retroalimentación o <em>feedback</em> es la opinión que alguien tiene de un servicio o producto determinado del que ha hecho uso o que ha consumido. Al reunir y gestionar un gran número de opiniones podemos utilizar el feedback como una herramienta para crear una evaluación del servicio o producto en cuestión (hudspot, 2021).',
     },
   ],
   complementario: [
@@ -335,6 +335,47 @@ export default {
         cargo: 'Asesor metodológico y pedagógico',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Eduardo José Velasco Acevedo',
+        cargo: 'Experto temático',
+        centro: 'Centro para la Industria de la Comunicación Gráfica',
+      },
+      {
+        nombre: 'Juan Manuel Reyes Ramírez',
+        cargo: 'Experto temático',
+        centro: 'Centro para la Industria de la Comunicación Gráfica',
+      },
+      {
+        nombre: 'Carlos Andrés Suescun Lesmes',
+        cargo: 'Experto temático',
+        centro: 'Centro para la Industria de la Comunicación Gráfica',
+      },
+      {
+        nombre: 'Olga Lucía Mogollón Carvajal',
+        cargo: 'Experto temático',
+        centro: 'Centro para la Industria de la Comunicación Gráfica',
+      },
+      {
+        nombre: 'Caterine Bedoya Mejía',
+        cargo: 'Diseñadora instruccional',
+        centro: 'Regional Distrito Capital – Centro de Gestión Industrial',
+      },
+      {
+        nombre: 'Eduardo José Velasco Acevedo',
+        cargo: 'Experto temático',
+        centro: 'Centro para la Industria de la Comunicación Gráfica',
+      },
+      {
+        nombre: 'Silvia Milena Sequeda Cárdenas',
+        cargo: 'Evaluadora instruccional',
+        centro: 'Regional Distrito Capital – Centro de Gestión Industrial',
+      },
+      {
+        nombre: 'Jhon Jairo Rodríguez Pérez',
+        cargo: 'Diseñador y evaluador instruccional',
+        centro:
+          'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica ',
       },
     ],
     desarrolloProducto: [

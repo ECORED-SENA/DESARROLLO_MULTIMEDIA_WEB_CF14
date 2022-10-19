@@ -442,7 +442,7 @@
     Separador
 
     #t_4_3.titulo-segundo.color-acento-botones
-      .h4 4.4 Software de análisis pagos y gratuitos
+      .h4 4.3 <i>Software</i> de análisis pagos y gratuitos
 
     p.mb-4 Saber y entender la importancia que cumplen las herramientas de análisis <i>web</i>, es una tarea ardua, muchas veces se cometen errores de diseñar estrategias y dejarlas que fluyan solas, sin hacerles el correspondiente seguimiento y comportamiento, cometer estos errores es catapultar al fracaso, esto sería como un barco a la deriva sin rumbo fijo.
     p.mb-4 Aquí una descripción de las herramientas más utilizadas, algunas de uso gratis y otras de método pagado.
@@ -451,7 +451,7 @@
         iframe(width="942" height="530" src="https://www.youtube.com/embed/JUfI_XrNkrE" title="Software de análisis pagos y gratuitos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     #t_4_4.titulo-segundo.color-acento-botones
-      .h4 4.5 Sistemas de <i>feeback</i> para usuarios 
+      .h4 4.4 Sistemas de <i>feeback</i> para usuarios 
     .row.mb-4
       .col-md-7
         p.mb-4 <b> <FONT COLOR="#1565C0"> Un <i>feeback</i> es la opinión que tiene alguien de un producto o servicio predeterminado que en algún momento alguien ha utilizado o consumido. </FONT> </b> Para realizar una cantidad de comentarios acerca de atributos se puede implementar el <i>feeback</i> para realizar este análisis y del servicio o producto determinado. 
