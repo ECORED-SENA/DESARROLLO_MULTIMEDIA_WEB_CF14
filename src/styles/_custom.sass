@@ -58,12 +58,24 @@
   bottom: 0
   background-position: center
   background-size: cover
+  @media screen and (max-width: 994px)
+    width: 100%
+    position: absolute
+    top: 0px
+    left: 0%
+    bottom: 0
+    background-position: center
+    background-size: cover
 
 .bloque-texto-g__texto 
   position: relative
   width: 70%
   background-color: rgba(255, 255, 255, 0.95)
-
+  @media screen and (max-width: 994px)
+    position: relative
+    width: 100%
+    background-color: rgba(255, 255, 255, 0.95)
+    
 .color-gris
   background-color: #E8E8E8
 
@@ -161,12 +173,29 @@
   bottom: 0
   background-position: center
   background-size: cover
+  @media screen and (max-width: 994px)
+    width: 100%
+    position: absolute
+    top: 0px
+    right: 0%
+    bottom: 40%
+    background-position: center
+    background-size: cover
+
+.bloque-texto-g1
+  @media screen and (max-width: 994px)
+    padding-top: 40% !important
 
 .bloque-texto-g1__texto 
   position: relative
   width: 70%
   background-color: rgba(255, 255, 255, 0.95)
   right: -30%
+  @media screen and (max-width: 994px)
+    position: relative
+    width: 100%
+    background-color: rgba(255, 255, 255, 0.95)
+    right: 0%
 
 .tarjeta-zul
   background-color: #CBDEF4
@@ -225,10 +254,21 @@
 .color6
   background-color: #B2EBF2
   border-radius: 0px
+  height: 100%
+  @media screen and (max-width: 994px)
+    height: 100%
+
+.color6-1
+  background-color: #B2EBF2
+  border-radius: 0px
+  height: 260px
+  @media screen and (max-width: 994px)
+    height: 100%
 
 .color7
   background-color: #FFE6C6
   border-radius: 0px
+  height: 100%
 
 .color8
   background-color: #FFFAE7
@@ -242,14 +282,21 @@
   background-color: #ffffff
   border: 3px solid #1565C0
   border-radius: 20px
+  height: 100%
 
 .color9
   background-color: #F6F6F6
   border-radius: 20px
 
 .color10
-  background-color: #ffffff
+  background-color: #ffffff !important
   border-radius: 20px
+  height: 130px
+  width: 100%
+  align-items: center
+  @media screen and (max-width: 1200px)
+    width: 100%
+    height: 100%
 
 .color11
   background-color: #FFDDB4
@@ -262,6 +309,7 @@
 .color13
   background-color: #FFCC8B
   border-radius: 20px
+  height: 100%
 
 .color14
   background-color: #B2EBF2
@@ -275,4 +323,131 @@
 
 .acordion__activo
   background-color: #B2EBF2!important
+
+.tabs-c.color-secundario .tabs-c__tab--active
+  border-bottom-color: #1565C0 !important
+  color: #1565C0 !important
+  font-weight: bold
+
+
+.bg_grad-01
+  position: relative
+  .row, 
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0rem 
+    top: -4%
+    left: -4%
+    width: calc( 102% + 6rem)
+    height: calc( 100% + 4rem)
+    background-image: url("../assets/curso/temas/fondo1.jpg")
+    background-repeat: no-repeat
+
+.bg_grad-02
+  position: relative
+  .row, SlyderF,
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0rem 
+    top: 0%
+    left: 0%
+    width: calc( 100% + 0rem)
+    height: 100%
+    background-image: url("../assets/curso/temas/fondo2.jpg")
+    background-repeat: no-repeat
   
+.tarjeta.color-secundario
+  height: 335px
+  @media screen and (max-width: 994px)
+    height: 100%
+
+.bg_grad-03
+  position: relative
+  .row, SlyderF, p, 
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0rem 
+    top: -7%
+    left: 0%
+    width: calc( 100% + 0rem)
+    height: 100%
+    background-image: url("../assets/curso/temas/fondo3.jpg")
+    background-repeat: no-repeat
+
+.bg_grad-04
+  position: relative
+  .row, 
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0rem 
+    top: 0%
+    left: -4%
+    width: calc( 100% + 6rem)
+    height: 100%
+    background-image: url("../assets/curso/temas/fondo4.jpg")
+    background-repeat: no-repeat
+
+.boton.color-acento-botones *, .color-acento-botones.boton--sm *
+  color: #12263F
+
+.boton.color-acento-botones:active *, .color-acento-botones.boton--sm:active *, .boton.color-acento-botones:focus *, .color-acento-botones.boton--sm:focus *, .boton.color-acento-botones:hover *, .color-acento-botones.boton--sm:hover *
+  color: #12263F
+
+.bg_grad-05
+  position: relative
+  .row, 
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0rem 
+    top: 0%
+    left: -4%
+    width: calc( 100% + 6rem)
+    height: 100%
+    background-image: url("../assets/curso/temas/fondo5.jpg")
+    background-repeat: no-repeat
+
+.colorlinealnaranja
+  background-color: #FFF6EB !important
+  border: 3px solid #FB8C00 !important
+  border-radius: 20px
+  height: 100%
+
+.colortext
+  position: relative
+  .row, p, 
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0rem 
+    top: -10%
+    left: 0%
+    width: calc( 57% )
+    height: 140%
+    background-color: #FFF6EB !important
+    background-repeat: no-repeat
+
+.bg_grad-06
+  position: relative
+  .row, 
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0rem 
+    top: -10%
+    left: 0%
+    width: calc( 100% + 6rem)
+    height: 100%
+    background-image: url("../assets/curso/temas/fondo6.png")
+    background-repeat: no-repeat

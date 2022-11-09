@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-botones
       .titulo-principal__numero 
         span 1
       h1 Fundamentos de posicionamiento SEO
@@ -19,8 +19,8 @@
     .row.mb-4
       .cajon-b.color-acento-contenido.p-3
         p.mb-0 El SEO es un proceso diseñado por varios componentes que se implementan continuamente. Los resultados no se logran bajo una sola acción, no solamente por utilizar palabras claves, por ejemplo, se puede tener una buena posición en Google. Esto va más allá, se trata de objetivos a largo plazo y una serie de técnicas en grupo, con el fin de mejorar el reconocimiento de un sitio <i>web</i> y atraer visitas relevantes.
-    .row.mb-4
-      .col-md-12.col-12
+    .row.justify-content-center.mb-4
+      .col-lg-10.col-12
         .bloque-texto-g.color-gris.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/tema1/img1.jpg')})`}"
@@ -35,7 +35,7 @@
     p.mb-4 El SEO tiene grandes ventajas para las organizaciones.
     .row.justify-content-center.align-items-center.mb-4
       .col-md-4
-        figure
+        figure.mb-4
           img(src='@/assets/curso/tema1/img2.jpg', alt='')
       .col-md-8
         LineaTiempoD.color-linea
@@ -60,62 +60,63 @@
       .h2 1.2	Tipos de SEO
 
     p.mb-4 El <b> <FONT COLOR="#1565C0"> SEO, </FONT> </b> posiciona un sitio <i>web</i> de forma natural en los motores de búsqueda, sin necesidad de realizar pautas publicitarias pagadas. Estas acciones, actividades y modificaciones para posicionar un sitio <i>web</i>, suelen clasificarse en dos grupos: 
+    br
+    .bg_grad-01
+      .row.mb-4
+        .col-md-12
+          TabsC.color-secundario
+            .py-3.py-md-4(titulo="El SEO <i>On Page</i>")
+              .row.justify-content-center.align-items-center.mb-4
+                .col-md-4.mb-4.mb-md-0
+                  figure
+                    img(src='@/assets/curso/tema1/img3.jpg', alt='Texto que describa la imagen')
+                  
+                .col-md-6
+                  h4 <FONT COLOR="#1565C0"> El SEO <i>on page</i> </FONT>
+                  p corresponde a las técnicas, actividades y modificaciones que se puede hacer dentro de un sitio <i>web</i> y sus páginas, para posicionarlo en los buscadores. Como por ejemplo organizar su contenido, descripciones, optimización de imágenes, videos, hacen que la duración de carga sea más veloz, todos estos elementos facilitarán al SEO <i>on page</i>, a generar una mejor experiencia con el usuario. En la actualidad Google es el motor de búsqueda más importante
+              
 
-    .row.mb-4
-      .col-md-12
-        TabsC.color-secundario
-          .py-3.py-md-4(titulo="El SEO <i>On Page</i>")
-            .row.justify-content-center.align-items-center.mb-4
-              .col-md-4.mb-4.mb-md-0
-                figure
-                  img(src='@/assets/curso/tema1/img3.jpg', alt='Texto que describa la imagen')
-                
-              .col-md-6
-                h4 <FONT COLOR="#1565C0"> El SEO <i>on page</i> </FONT>
-                p corresponde a las técnicas, actividades y modificaciones que se puede hacer dentro de un sitio <i>web</i> y sus páginas, para posicionarlo en los buscadores. Como por ejemplo organizar su contenido, descripciones, optimización de imágenes, videos, hacen que la duración de carga sea más veloz, todos estos elementos facilitarán al SEO <i>on page</i>, a generar una mejor experiencia con el usuario. En la actualidad Google es el motor de búsqueda más importante
+            .py-3.py-md-4(titulo="El SEO <i>Off Page</i>")
+              .row.justify-content-center.align-items-center.mb-4
+                .col-md-4.mb-4.mb-md-0
+                  figure
+                    img(src='@/assets/curso/tema1/img4.jpg', alt='Texto que describa la imagen')
+                  
+                .col-md-6
+                  h4 <FONT COLOR="#1565C0"> El SEO <i>off page</i></FONT>
+                  p Son acciones y actividades que se pueden hacer fuera del sitio <i>web</i> que intentan posicionar mejor en los resultados de búsqueda. Básicamente es suministrar su contenido de forma externa para generar visitas a un sitio <i>web</i>. Normalmente esto se traduce en enlaces entrantes, también conocidos como <i>backlinks,</i> que son enlaces de otros sitios <i>web</i> que dirigen a otra <i>web</i>. Un ejemplo de esto son las redes sociales donde es común encontrar <i>links,</i> enlaces que un sitio <i>web</i>.
             
+            .py-3.py-md-4(titulo="SEO HAT")
+              .row.justify-content-center.align-items-center.mb-4
+                .col-md-4.mb-4.mb-md-0
+                  figure
+                    img(src='@/assets/curso/tema1/img5.jpg', alt='Texto que describa la imagen')
+                  
+                .col-md-6
+                  h4 <FONT COLOR="#1565C0"> SEO HAT</FONT>
+                  p Corresponde al buen uso de todas las técnicas SEO, sugeridas por los buscadores, implementación, procedimientos que no generen una sanción. Es la claridad, la forma legal de realizar SEO.
 
-          .py-3.py-md-4(titulo="El SEO <i>Off Page</i>")
-            .row.justify-content-center.align-items-center.mb-4
-              .col-md-4.mb-4.mb-md-0
-                figure
-                  img(src='@/assets/curso/tema1/img4.jpg', alt='Texto que describa la imagen')
-                
-              .col-md-6
-                h4 <FONT COLOR="#1565C0"> El SEO <i>off page</i></FONT>
-                p Son acciones y actividades que se pueden hacer fuera del sitio <i>web</i> que intentan posicionar mejor en los resultados de búsqueda. Básicamente es suministrar su contenido de forma externa para generar visitas a un sitio <i>web</i>. Normalmente esto se traduce en enlaces entrantes, también conocidos como <i>backlinks,</i> que son enlaces de otros sitios <i>web</i> que dirigen a otra <i>web</i>. Un ejemplo de esto son las redes sociales donde es común encontrar <i>links,</i> enlaces que un sitio <i>web</i>.
-          
-          .py-3.py-md-4(titulo="SEO HAT")
-            .row.justify-content-center.align-items-center.mb-4
-              .col-md-4.mb-4.mb-md-0
-                figure
-                  img(src='@/assets/curso/tema1/img5.jpg', alt='Texto que describa la imagen')
-                
-              .col-md-6
-                h4 <FONT COLOR="#1565C0"> SEO HAT</FONT>
-                p Corresponde al buen uso de todas las técnicas SEO, sugeridas por los buscadores, implementación, procedimientos que no generen una sanción. Es la claridad, la forma legal de realizar SEO.
-
-          .py-3.py-md-4(titulo="SEO BLACK")
-            .row.justify-content-center.align-items-center.mb-4
-              .col-md-4.mb-4.mb-md-0
-                figure
-                  img(src='@/assets/curso/tema1/img6.jpg', alt='Texto que describa la imagen')
-                
-              .col-md-6
-                h4 <FONT COLOR="#1565C0"> SEO BLACK</FONT>
-                p Se basa en encontrar un posicionamiento pronto, aplicando elementos, técnicas, poco transparentes, proximidades en las normas de los buscadores, y que conllevarán a sanciones.
-          
-          .py-3.py-md-4(titulo="SEO para <i>Marketing</i>")
-            .row.justify-content-center.align-items-center.mb-4
-              .col-md-4.mb-4.mb-md-0
-                figure
-                  img(src='@/assets/curso/tema1/img7.jpg', alt='Texto que describa la imagen')
-                
-              .col-md-6
-                h4 <FONT COLOR="#1565C0">SEO para <i>marketing</i> </FONT>
-                p.mb-4 Es necesario incorporar la estrategia SEO con las demás actividades de <i>Marketing</i>. Se debe tener presente que el <i>Marketing</i> tiene sus cimientos en mantener una relación mutuamente beneficiosa con los clientes. Por eso, se debe tener clara la propuesta de <i>Marketing</i>, es decir, saber cuál es el valor que se le entrega a un cliente o usuario y qué es lo que se obtiene de ellos a cambio. Una vez se tenga esto definido, se puede iniciar una estrategia SEO.
-                p.mb-4 El SEO se necesita para ayudar a Google a encontrar un contenido. Esto se puede hacer, por ejemplo, a través de los sitemaps, construyendo relaciones con otros sitios web por medio de enlaces, o promocionando una web. 
-                p.mb-0 Se debe facilitar a Google a comprender el contenido, pero, al mismo tiempo, ayudar a los usuarios a entender un contenido. Google debe poder ver el sitio web como los usuarios lo hacen. Para eso se debe facilitar la lectura de los archivos JavaScript, CSS e imágenes, a los robots de Google que, al leerlos correctamente, indexarán las páginas web. Se puede comenzar por hacer las URL más amigables, lo que facilitará su comprensión a los usuarios y a Google.
+            .py-3.py-md-4(titulo="SEO BLACK")
+              .row.justify-content-center.align-items-center.mb-4
+                .col-md-4.mb-4.mb-md-0
+                  figure
+                    img(src='@/assets/curso/tema1/img6.jpg', alt='Texto que describa la imagen')
+                  
+                .col-md-6
+                  h4 <FONT COLOR="#1565C0"> SEO BLACK</FONT>
+                  p Se basa en encontrar un posicionamiento pronto, aplicando elementos, técnicas, poco transparentes, proximidades en las normas de los buscadores, y que conllevarán a sanciones.
+            
+            .py-3.py-md-4(titulo="SEO para <i>Marketing</i>")
+              .row.justify-content-center.align-items-center.mb-4
+                .col-md-4.mb-4.mb-md-0
+                  figure
+                    img(src='@/assets/curso/tema1/img7.jpg', alt='Texto que describa la imagen')
+                  
+                .col-md-6
+                  h4 <FONT COLOR="#1565C0">SEO para <i>marketing</i> </FONT>
+                  p.mb-4 Es necesario incorporar la estrategia SEO con las demás actividades de <i>Marketing</i>. Se debe tener presente que el <i>Marketing</i> tiene sus cimientos en mantener una relación mutuamente beneficiosa con los clientes. Por eso, se debe tener clara la propuesta de <i>Marketing</i>, es decir, saber cuál es el valor que se le entrega a un cliente o usuario y qué es lo que se obtiene de ellos a cambio. Una vez se tenga esto definido, se puede iniciar una estrategia SEO.
+                  p.mb-4 El SEO se necesita para ayudar a Google a encontrar un contenido. Esto se puede hacer, por ejemplo, a través de los sitemaps, construyendo relaciones con otros sitios web por medio de enlaces, o promocionando una web. 
+                  p.mb-0 Se debe facilitar a Google a comprender el contenido, pero, al mismo tiempo, ayudar a los usuarios a entender un contenido. Google debe poder ver el sitio web como los usuarios lo hacen. Para eso se debe facilitar la lectura de los archivos JavaScript, CSS e imágenes, a los robots de Google que, al leerlos correctamente, indexarán las páginas web. Se puede comenzar por hacer las URL más amigables, lo que facilitará su comprensión a los usuarios y a Google.
 
 
 </template>

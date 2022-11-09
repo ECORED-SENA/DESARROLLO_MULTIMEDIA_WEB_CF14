@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-botones
       .titulo-principal__numero 
         span 2
       h1 Fundamentos de posicionamiento SEM
@@ -13,17 +13,18 @@
       .video
         iframe(width="942" height="530" src="https://www.youtube.com/embed/ne_yaOOLL5Q" title="Posicionamiento SEM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    .row.mb-4
-      .col-md-12.col-12
+    .row.justify-content-center.mb-4
+      .col-lg-10.col-12
         .bloque-texto-g.color-gris.p-5.p-sm-4.p-md-5
           .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/tema2/img1.jpg')})`}"
           )
           .bloque-texto-g__texto.p-5.mb-5
             p <b> <FONT COLOR="#1565C0"> El SEM es el <i>marketing</i> en redes sociales (smm) </FONT> </b> que se busca en la explotación de medios sociales para influir en los usuarios y así persuadirlos hacia la compra de un producto o servicio.
+    Separador
 
     #t_2_1.titulo-segundo.color-acento-botones
-      .h4 2.1	Componentes SEM
+      .h2 2.1	Componentes SEM
 
     p.mb-4 Diseñar una buena estrategia SEM, implica aspectos a tener en cuenta con el objetivo de obtener los mejores resultados y optimizar la inversión. Se debe diseñar la estrategia teniendo presente los siguientes aspectos:
 
@@ -31,7 +32,7 @@
       .tarjeta.color1.p-4
         .row.align-items-center
           .col-md-4
-            figure
+            figure.mb-4
               img(src='@/assets/curso/tema2/img1.png', alt='Texto que describa la imagen')
           .col-md-8
             ul.lista-ul--color
@@ -51,46 +52,46 @@
                 i.fas.fa-check
                 p.mb-1 Estrategias de proporción, la publicidad se maneja por temporalidades esto quiere decir que se debe aprovechar al máximo fechas importantes, definir cómo y cuándo aplicarlas.
     p.mb-4 <b>Para tener una buena estrategia SEM se deben reconocer las ventajas que tiene:</b>
+    .bg_grad-02
+      .row.justify-content-center.align-items-center.mb-4
+        .col-md-5
+          figure
+            img(src='@/assets/curso/tema2/img2.png', alt='Texto que describa la imagen')
+        .col-md-7
+          .row.justify-content-center.align-items-center.mb-4
+            .col-md-10
+              SlyderF.mb-5(columnas="col-lg-12 col-xl-12")
+                .tarjeta-avatar
+                  img(src='@/assets/curso/tema2/avatar1.svg' alt='')
+                  .tarjeta.color-tarjeta
+                    .text-black.p-4
+                      h5 Crece el tráfico en la <i>web</i>
+                      p.mb-0 Realizando un buen trabajo SEM se consigue obtener mejores visitas de nuestra <i>web</i>, teniendo en cuenta que los objetivos pueden ser variados desde ofrecer nuestro producto de hecho hasta potenciar nuestra marca. Por esta razón es importante ajustar las campañas a los objetivos determinados.
 
-    .row.justify-content-center.align-items-center.mb-4
-      .col-md-5
-        figure
-          img(src='@/assets/curso/tema2/img2.png', alt='Texto que describa la imagen')
-      .col-md-7
-        .row.justify-content-center.align-items-center.mb-4
-          .col-md-10
-            SlyderF.mb-5(columnas="col-lg-12 col-xl-12")
-              .tarjeta-avatar
-                img(src='@/assets/curso/tema2/avatar1.svg' alt='')
-                .tarjeta.color-tarjeta
-                  .text-black.p-4
-                    h5.text-center Crece el tráfico en la <i>web</i>
-                    p.mb-0 Realizando un buen trabajo SEM se consigue obtener mejores visitas de nuestra <i>web</i>, teniendo en cuenta que los objetivos pueden ser variados desde ofrecer nuestro producto de hecho hasta potenciar nuestra marca. Por esta razón es importante ajustar las campañas a los objetivos determinados.
+                .tarjeta-avatar
+                  img(src='@/assets/curso/tema2/avatar4.svg' alt='')
+                  .tarjeta.color-tarjeta
+                    .text-black.p-4
+                      h5 Posicionamiento rápido
+                      p.mb-0 Resultado en menor tiempo, especialmente si lo relacionamos con las técnicas SEO las cuales funcionan a mediano y largo plazo mientras que si se cuenta con el presupuesto en poco tiempo la compañía recibirá vistas de inmediato.
 
-              .tarjeta-avatar
-                img(src='@/assets/curso/tema2/avatar2.svg' alt='')
-                .tarjeta.color-tarjeta
-                  .text-black.p-4
-                    h5.text-center Posicionamiento rápido
-                    p.mb-0 Resultado en menor tiempo, especialmente si lo relacionamos con las técnicas SEO las cuales funcionan a mediano y largo plazo mientras que si se cuenta con el presupuesto en poco tiempo la compañía recibirá vistas de inmediato.
+                .tarjeta-avatar
+                  img(src='@/assets/curso/tema2/avatar3.svg' alt='')
+                  .tarjeta.color-tarjeta
+                    .text-black.p-4
+                      h5 Presupuesto personalizado
+                      p.mb-0 Controlar y ajustar el presupuesto y así definir al máximo lo que estamos dispuesto a desembolsar en la compaña. Cuanto se invertirá día tras día y lo que estamos dispuestos a pagar por cada clic (CPC) por lo que se estudiará si realmente conseguimos una oportunidad de venta o conversión.
 
-              .tarjeta-avatar
-                img(src='@/assets/curso/tema2/avatar3.svg' alt='')
-                .tarjeta.color-tarjeta
-                  .text-black.p-4
-                    h5.text-center Presupuesto personalizado
-                    p.mb-0 Controlar y ajustar el presupuesto y así definir al máximo lo que estamos dispuesto a desembolsar en la compaña. Cuanto se invertirá día tras día y lo que estamos dispuestos a pagar por cada clic (CPC) por lo que se estudiará si realmente conseguimos una oportunidad de venta o conversión.
-
-              .tarjeta-avatar
-                img(src='@/assets/curso/tema2/avatar4.svg' alt='')
-                .tarjeta.color-tarjeta
-                  .text-black.p-4
-                    h5.text-center Poder de segmentación
-                    p.mb-0 Dependiendo se puede escoger un público objetivo a comparación del SEO. Se puede instaurar en base a unos criterios como edad, comportamiento, palabra clave o localización.
+                .tarjeta-avatar
+                  img(src='@/assets/curso/tema2/avatar2.svg' alt='')
+                  .tarjeta.color-tarjeta
+                    .text-black.p-4
+                      h5 Poder de segmentación
+                      p.mb-0 Dependiendo se puede escoger un público objetivo a comparación del SEO. Se puede instaurar en base a unos criterios como edad, comportamiento, palabra clave o localización.
     Separador
 
     #t_2_2.titulo-segundo.color-acento-botones
-      .h4 2.2 Características SEM
+      .h2 2.2 Características SEM
 
     p.mb-4 SEM tiene diferentes tipos de características que permite sea más efectivo su optimización, así mismo los inconvenientes que pueda tener para su implementación. 
 
@@ -156,7 +157,6 @@
                   img(src='@/assets/curso/tema2/punto2.svg' alt='')
               h5.mb-1 Genera menos confianza que el SEO
               p.mb-0 Los públicos ya saben diferenciar sobre el efecto orgánico y los resultados de pago. Saben que cualquier sitio <em>web</em> puede aparecer en las primeras posiciones solo activando una campaña así generando desconfianza, mientras que con los resultados orgánicos no pasa. Una compañía que aparece en las primeras posiciones de manera SEO significa que hace una buena labor.
-    separador
     
 </template>
 
