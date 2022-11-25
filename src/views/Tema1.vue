@@ -7,19 +7,19 @@
         span 1
       h1 Fundamentos de posicionamiento SEO
 
-    p.mb-0 El SEO, es un área del <i>marketing</i> digital enfocada a mejorar la presencia de un sitio <i>web,</i> específicamente en la parte natural no pagada. 
-    p.mb-4 <b>A continuación se conocerán detalladamente qué es SEO y en qué consiste el posicionamiento del mismo:</b>
-    figure.mb-5
+    p.mb-0(data-aos="fade-right") El SEO, es un área del <i>marketing</i> digital enfocada a mejorar la presencia de un sitio <i>web,</i> específicamente en la parte natural no pagada. 
+    p.mb-4(data-aos="fade-right") <b>A continuación se conocerán detalladamente qué es SEO y en qué consiste el posicionamiento del mismo:</b>
+    figure.mb-5(data-aos="fade-left")
       .video
         iframe(width="942" height="530" src="https://www.youtube.com/embed/fHEeho3AWWg" title="Posicionamiento SEO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-4(data-aos="fade")
       .col-md-10
         .cajon.color-acento-botones.p-4(style='background-color: #FFFAE7')
           p Estas estrategias de marketing digital son fundamentales para que una empresa obtenga reconocimiento en internet y, por lo tanto, obtenga más visitas, clientes y ventas.
-    .row.mb-4
+    .row.mb-4(data-aos="fade-right")
       .cajon-b.color-acento-contenido.p-3
         p.mb-0 El SEO es un proceso diseñado por varios componentes que se implementan continuamente. Los resultados no se logran bajo una sola acción, no solamente por utilizar palabras claves, por ejemplo, se puede tener una buena posición en Google. Esto va más allá, se trata de objetivos a largo plazo y una serie de técnicas en grupo, con el fin de mejorar el reconocimiento de un sitio <i>web</i> y atraer visitas relevantes.
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-4(data-aos="fade")
       .col-lg-10.col-12
         .bloque-texto-g.color-gris.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
@@ -32,12 +32,12 @@
     #t_1_1.titulo-segundo.color-acento-botones
       .h2 1.1	Ventajas del SEO
 
-    p.mb-4 El SEO tiene grandes ventajas para las organizaciones.
+    p.mb-4(data-aos="fade-right") El SEO tiene grandes ventajas para las organizaciones.
     .row.justify-content-center.align-items-center.mb-4
-      .col-md-4
+      .col-md-4(data-aos="fade-right")
         figure.mb-4
           img(src='@/assets/curso/tema1/img2.jpg', alt='')
-      .col-md-8
+      .col-md-8(data-aos="fade-left")
         LineaTiempoD.color-linea
           .row.align-items-center(numero="1" titulo="Promover confianza y seguridad") 
             .col-md-12
@@ -59,10 +59,10 @@
     #t_1_2.titulo-segundo.color-acento-botones
       .h2 1.2	Tipos de SEO
 
-    p.mb-4 El <b> <FONT COLOR="#1565C0"> SEO, </FONT> </b> posiciona un sitio <i>web</i> de forma natural en los motores de búsqueda, sin necesidad de realizar pautas publicitarias pagadas. Estas acciones, actividades y modificaciones para posicionar un sitio <i>web</i>, suelen clasificarse en dos grupos: 
+    p.mb-4(data-aos="fade-right") El <b> <FONT COLOR="#1565C0"> SEO, </FONT> </b> posiciona un sitio <i>web</i> de forma natural en los motores de búsqueda, sin necesidad de realizar pautas publicitarias pagadas. Estas acciones, actividades y modificaciones para posicionar un sitio <i>web</i>, suelen clasificarse en dos grupos: 
     br
     .bg_grad-01
-      .row.mb-4
+      .row.mb-4(data-aos="fade")
         .col-md-12
           TabsC.color-secundario
             .py-3.py-md-4(titulo="El SEO <i>On Page</i>")

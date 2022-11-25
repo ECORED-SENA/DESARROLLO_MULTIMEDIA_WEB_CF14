@@ -7,25 +7,25 @@
         span 4
       h1 Herramientas para pruebas
 
-    p.mb-4 Una herramienta para prueba de análisis, permite darse a conocer como un procedimiento específico, y que permite organizar, descomponer, presentar o estructurar datos e información, con el propósito de extraer conclusiones significativas que faciliten la toma de decisiones. 
+    p.mb-4(data-aos="fade-right") Una herramienta para prueba de análisis, permite darse a conocer como un procedimiento específico, y que permite organizar, descomponer, presentar o estructurar datos e información, con el propósito de extraer conclusiones significativas que faciliten la toma de decisiones. 
     Separador
 
     #t_4_1.titulo-segundo.color-acento-botones
-      .h4 4.1	Google analytics 
+      .h2 4.1	Google analytics 
 
     .row.align-items-center.mb-4
-      .col-md-7
+      .col-md-7(data-aos="fade-right")
         <b> <FONT COLOR="#1565C0"> Google analytics </FONT> </b> es la herramienta que ofrece la posibilidad de realizar seguimiento a sitios <i>web</i> y redes sociales, suministrando contenido de un sitio <i>web</i>, dicho de otra manera, ayuda a medir y analizar lo que sucede en un sitio <i>web</i>. Analytics es una herramienta compatible con las demás herramientas de Google.
-      .col-md-4
+      .col-md-4(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema4/img1.jpg', alt='')
 
-    .row.mb-4
+    .row.mb-4(data-aos="fade-right")
       .cajon.color-acento-botones.p-4(style='background-color: #FFFAE7')
         p Según el autor (Wikipedia, 2021) Analytics ofrece información agrupada del tráfico que llega a los sitios <i>web</i> según la audiencia, la adquisición, el comportamiento y las conversiones que se llevan a cabo en el sitio <i>web</i>.
 
     .row.justify-content-center.mb-5
-      .col-md-5.mb-4
+      .col-md-5.mb-4(data-aos="fade-right")
         .tarjeta.color6.p-4
           h4.mb-4 Sus principales componentes son:
           ul.lista-ul--color.mb-4
@@ -49,19 +49,19 @@
                   figure
                     img(src='@/assets/curso/temas/zoom.svg', alt='') 
                 .indicador--click(v-if="mostrarIndicador")
-      .col-md-5
+      .col-md-5(data-aos="fade-left")
         .tarjeta.color7.p-4
           h4.mb-4 También aplica sobre otros elementos como:
           ul.lista-ul--color.mb-4
             li 
               i.fas.fa-check
-              p.mb-0 o	Las secciones preferidas los usuarios.
+              p.mb-0 Las secciones preferidas los usuarios.
             li 
               i.fas.fa-check
-              p.mb-0 o	Palabras claves utilizadas.
+              p.mb-0 Palabras claves utilizadas.
             li 
               i.fas.fa-check
-              p.mb-0 o	Características técnicas de los dispositivos de los visitantes.
+              p.mb-0 Características técnicas de los dispositivos de los visitantes.
           .row
             .col-auto
               a.boton.color-acento-botones.indicador__container(@click="modal2 = true")
@@ -83,7 +83,7 @@
           figure
             img(src='@/assets/curso/temas/ampliar2.jpg', alt='Texto que describa la imagen')
 
-    .bg_grad-05
+    .bg_grad-05(data-aos="fade")
       .row.mb-4
         .col-lg-3.col-md-6
           .tarjeta.colorsub.p-2
@@ -174,15 +174,15 @@
             p.mb-2 <b>Eventos</b>
             p.mb-0 Inicia una acción que se haya definido anteriormente en un evento.
 
-    .row.mb-4
+    .row.mb-4(data-aos="fade-right")
       .col-lg-3.col-md-6
         .tarjeta.colorsub.p-2
           h4.mb-0.text-center.text-white Interfaz de Google Analytics
 
-    p.mb-4 La versión más reciente es Google 4, es una interfaz muy amigable y fácil a la hora de utilizar, en la parte izquierda aparecen los informes que suministra Google, opciones de programación y administración, en la zona superior se puede programar un periodo de análisis, incorporar segmentos de información, también aparece la opción de descargar o exportar informes.
+    p.mb-4(data-aos="fade-right") La versión más reciente es Google 4, es una interfaz muy amigable y fácil a la hora de utilizar, en la parte izquierda aparecen los informes que suministra Google, opciones de programación y administración, en la zona superior se puede programar un periodo de análisis, incorporar segmentos de información, también aparece la opción de descargar o exportar informes.
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-md-10
+      .col-md-10(data-aos="fade")
         .tarjeta.color8.p-4.mb-4
           .col-md-10
             p.mb-0 Los datos para el informe van cambiando mientras navegamos por los cuatro tipos de informes principales: 
@@ -196,7 +196,7 @@
 
     p.mb-4 El diagrama de flujo corresponde al desarrollo de actividades es una forma gráfica de representar un algoritmo o un proceso que están estructurados e incorporados que pueden ser analizados. La aplicación gráfica en este proceso implementa una variedad de formas geométricas que identifican cada paso. Estas formas seleccionadas se enlazan a través de flechas y líneas que comunican la dirección del flujo y definen el trayecto del proceso. <b>Los diagramas de flujo están representados en cuatro (4) modos.</b>
 
-    .row.mb-4
+    .row.mb-4(data-aos="fade-right")
       .col-lg-3.col-md-6.mb-4
         .tarjeta.colorlineaazul.p-4
           .col-3
@@ -226,14 +226,14 @@
           h3 Arquitectónico 
           p.mb-0 Muestran un trayecto de trabajo o una parte de trabajo.
 
-    p.mb-4 Los diagramas de flujo es una forma de control y descripción de tareas que ayudan a una mejor organización, análisis y reorganización de seguimiento de tareas y procesos de características diferentes, gracias a su facilidad y versatilidad. Tradicionalmente son implementadas en áreas financieras, informáticas, industriales, etc. <b>A continuación se podrá conocer los elementos que tiene un diagrama: </b>
+    p.mb-4(data-aos="fade-right") Los diagramas de flujo es una forma de control y descripción de tareas que ayudan a una mejor organización, análisis y reorganización de seguimiento de tareas y procesos de características diferentes, gracias a su facilidad y versatilidad. Tradicionalmente son implementadas en áreas financieras, informáticas, industriales, etc. <b>A continuación se podrá conocer los elementos que tiene un diagrama: </b>
 
-    .row.mb-4
+    .row.mb-4(data-aos="fade-right")
       .col-lg-3.col-md-6
         .tarjeta.colorsub.p-2
           h4.mb-0.text-center.text-white Elementos del diagrama 
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade")
       .col-md-8.mb-4
         LineaTiempoD.color-linea
           .row.align-items-center(numero="1" titulo="Terminador") 
@@ -258,10 +258,10 @@
       .col-md-4
         figure
           img(src='@/assets/curso/tema4/vec1.svg', alt='')
-    .row.mb-4
+    .row.mb-4(data-aos="fade")
       .col-md-12
         h5.text-center En la siguiente imagen, se detalla la representación gráfica de los símbolos más comunes y su nombre: 
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-4(data-aos="fade")
       .col-xl-6.col-lg-8.col-md-10.col-12
         .tarjeta.color9.p-3
           .col-md-12
@@ -294,7 +294,7 @@
                       figure
                         img(src='@/assets/curso/tema4/icon8.png', alt='')
                   p.mb-0.text-center Conector
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-4(data-aos="fade")
       .col-xl-6.col-lg-8.col-md-10.col-12
         .tarjeta.color9.p-3
           .col-md-12
@@ -336,14 +336,14 @@
         figure
           img(src='@/assets/curso/tema4/mapa.svg', alt='')
       
-    .row.mb-4
+    .row.mb-4(data-aos="fade-right")
       .col-lg-3.col-md-6
         .tarjeta.colorsub.p-2
           h4.mb-0.text-center.text-white Diagramas para algoritmos
 
-    p.mb-4 Los diagramas de flujo son una forma práctica para explicar un algoritmo, implementar un diagrama para describir la forma lógica internamente en un programa previamente de iniciar la codificación en proceso autorizado. Es una forma de estructurar un punto de vista general y brindar un modelo a partir del inicio que se requiere codificar. 
+    p.mb-4(data-aos="fade-right") Los diagramas de flujo son una forma práctica para explicar un algoritmo, implementar un diagrama para describir la forma lógica internamente en un programa previamente de iniciar la codificación en proceso autorizado. Es una forma de estructurar un punto de vista general y brindar un modelo a partir del inicio que se requiere codificar. 
 
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-4(data-aos="fade-right")
       .col-md-12
         .tarjeta.color6.p-5
           .row.align-items-center
@@ -366,9 +366,9 @@
             .col-md-4
               figure
                 img(src='@/assets/curso/tema4/img3.jpg', alt='')
-    p.mb-4 <b>Diagramas relacionados implementados en el <i>software.</i></b>
+    p.mb-4(data-aos="fade-right") <b>Diagramas relacionados implementados en el <i>software.</i></b>
 
-    .row.justify-content-center.mb-4  
+    .row.justify-content-center.mb-4(data-aos="fade")
       .col-lg-4.mb-4
         .tarjeta.colorlinealnaranja.p-4.mb-2
           h4 Diagramas Drakon:
@@ -384,7 +384,7 @@
           h4 Diagramas Nassi:
           p.mb-0 implementado en la programación estructurada en la ingeniería de sistemas.
 
-    p.mb-4 En la siguiente imagen se detalla un ejemplo de diagrama de flujo, relacionando con una actividad cotidiana.
+    p.mb-4(data-aos="fade-right") En la siguiente imagen se detalla un ejemplo de diagrama de flujo, relacionando con una actividad cotidiana.
     .row.justify-content-center.mb-4
       .col-md-10
         figure
@@ -396,7 +396,7 @@
           h4.mb-0.text-center.text-white Clases de diagramas de flujo
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-md-6.mb-4
+      .col-md-6.mb-4(data-aos="fade-right")
         LineaTiempoD.color-linea
           .row.align-items-center(numero="1" titulo="Diagramas de flujos de sistemas") 
             .col-md-12
@@ -421,13 +421,13 @@
           .row.align-items-center(numero="5" titulo="Diagrama de flujo general") 
             .col-md-12
               p Observación general.
-      .col-md-6
+      .col-md-6(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema4/img4.jpg', alt='')
 
     p.mb-4 <b>Existen otras herramientas para la creación de diagramas de flujo que se pueden utilizar on-line:</b>
 
-    .row.mb-4
+    .row.mb-4(data-aos="fade-right")
       .col-md-12
         .tarjeta.color8.p-5
           .row.justify-content-center.mb-4
@@ -461,7 +461,7 @@
                 li 
                   i.fas.fa-check
                   p.mb-0 Revisar posibles errores que se pueda presentar en su desarrollo (errores, desconexión de internet, campos vacíos).
-    .row.mb-4
+    .row.mb-4(data-aos="fade-left")
       .col-md-12
         .tarjeta.color12.p-5
           .row.justify-content-center
@@ -497,7 +497,7 @@
                       figure
                         img(src='@/assets/curso/temas/zoom.svg', alt='') 
                     .indicador--click(v-if="mostrarIndicador")
-    .row.mb-4
+    .row.mb-4(data-aos="fade-right")
       .col-lg-12
         .tarjeta.color8.p-5
           .row.justify-content-center
@@ -554,23 +554,23 @@
       .row.align-items-center
         .col-md-12
           figure
-            img(src='@/assets/curso/temas/ampliar6.jpg', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/tema4/img2.png', alt='Texto que describa la imagen')
 
     Separador
 
     #t_4_3.titulo-segundo.color-acento-botones
       .h2 4.3 <i>Software</i> de análisis pagos y gratuitos
 
-    p.mb-4 Saber y entender la importancia que cumplen las herramientas de análisis <i>web</i>, es una tarea ardua, muchas veces se cometen errores de diseñar estrategias y dejarlas que fluyan solas, sin hacerles el correspondiente seguimiento y comportamiento, cometer estos errores es catapultar al fracaso, esto sería como un barco a la deriva sin rumbo fijo.
-    p.mb-4 Aquí una descripción de las herramientas más utilizadas, algunas de uso gratis y otras de método pagado.
-    figure.mb-5
+    p.mb-4(data-aos="fade-right") Saber y entender la importancia que cumplen las herramientas de análisis <i>web</i>, es una tarea ardua, muchas veces se cometen errores de diseñar estrategias y dejarlas que fluyan solas, sin hacerles el correspondiente seguimiento y comportamiento, cometer estos errores es catapultar al fracaso, esto sería como un barco a la deriva sin rumbo fijo.
+    p.mb-4(data-aos="fade-right") Aquí una descripción de las herramientas más utilizadas, algunas de uso gratis y otras de método pagado.
+    figure.mb-5(data-aos="fade-up")
       .video
         iframe(width="942" height="530" src="https://www.youtube.com/embed/JUfI_XrNkrE" title="Software de análisis pagos y gratuitos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     Separador
 
     #t_4_4.titulo-segundo.color-acento-botones
       .h2 4.4 Sistemas de <i>feeback</i> para usuarios 
-    .row.align-items-center.mb-4
+    .row.align-items-center.mb-4(data-aos="fade-right")
       .col-md-7
         p.mb-4 <b> <FONT COLOR="#1565C0"> Un <i>feeback</i> es la opinión que tiene alguien de un producto o servicio predeterminado que en algún momento alguien ha utilizado o consumido. </FONT> </b> Para realizar una cantidad de comentarios acerca de atributos se puede implementar el <i>feeback</i> para realizar este análisis y del servicio o producto determinado. 
         p.mb-4 Para una compañía es importante el <i>feeback</i> de un cliente ya que permite saber y analizar la opinión de un cliente, un ejemplo puede ser el lanzamiento de un producto el cual inicia con unas ventas altas, pero en el transcurso de los días comienzan a disminuir. El <i>feeback</i> puede ayudar a detectar esa situación y permitir recuperar nuevamente las ventas y elevarlas, preguntarles directamente a los clientes que piensan.
@@ -580,7 +580,7 @@
         figure
           img(src='@/assets/curso/tema4/img3.png', alt='')
 
-    .bg_grad-06      
+    .bg_grad-06(data-aos="fade-up")   
       .row.mb-4
         .col-lg-2.col-md-5.col-6
           .tarjeta.colorsub.p-2
@@ -590,36 +590,36 @@
         .col-md-10
           SlyderF(columnas="col-lg-6 col-xl-4")
             .tarjeta.color13.p-4
-              h5.text-center <i>feeback</i> directo 
-              p.text-center Se organiza de forma contundente y mensajes directos.
+              h5 <i>feeback</i> directo 
+              p Se organiza de forma contundente y mensajes directos.
 
             .tarjeta.color13.p-4
-              h5.text-center <i>feeback</i> indirecto
-              p.text-center Desde donde se emite no es explícito ni claro.
+              h5 <i>feeback</i> indirecto
+              p Desde donde se emite no es explícito ni claro.
 
             .tarjeta.color13.p-4
-              h5.text-center <i>feeback</i> positivo
-              p.text-center Destaca las cualidades positivas de un producto o servicio.
+              h5 <i>feeback</i> positivo
+              p Destaca las cualidades positivas de un producto o servicio.
 
             .tarjeta.color13.p-4
-              h5.text-center <i>feeback</i> negativo
-              p.text-center Su finalidad es detallar las características negativas de una experiencia frente a un producto o servicio.
+              h5 <i>feeback</i> negativo
+              p Su finalidad es detallar las características negativas de una experiencia frente a un producto o servicio.
 
             .tarjeta.color13.p-4
-              h5.text-center <i>feeback</i> constructivo
-              p.text-center Su finalidad es dar un punto de vista objetivo y comunicar cualidades negativas como positivas al consumir un producto o servicio.
+              h5 <i>feeback</i> constructivo
+              p Su finalidad es dar un punto de vista objetivo y comunicar cualidades negativas como positivas al consumir un producto o servicio.
 
             .tarjeta.color13.p-4
-              h5.text-center <i>feeback</i> general
-              p.text-center Brinda una opinión general acerca de un producto o servicio, sin involucrarse en cualidades específicas. 
+              h5 <i>feeback</i> general
+              p Brinda una opinión general acerca de un producto o servicio, sin involucrarse en cualidades específicas. 
 
             .tarjeta.color13.p-4
-              h5.text-center <i>feeback</i> concreto
-              p.text-center Esta clase de <i>feeback</i> lo realizan quienes nombran atributos concretos de un producto o servicio.
+              h5 <i>feeback</i> concreto
+              p Esta clase de <i>feeback</i> lo realizan quienes nombran atributos concretos de un producto o servicio.
 
             .tarjeta.color13.p-4
-              h5.text-center <i>feeback</i> solicitado
-              p.text-center La retroalimentación se realiza por solicitud, como en una encuesta o cuestionario la retroalimentación es solicitada.  
+              h5 <i>feeback</i> solicitado
+              p La retroalimentación se realiza por solicitud, como en una encuesta o cuestionario la retroalimentación es solicitada.  
       .row.justify-content-center.align-items-center.mb-4
         .col-md-10
           .tarjeta.color14.p-5
@@ -630,12 +630,12 @@
               .col-md-10
                 p.mb-4 <b>Se recomienda implementar un <i>feeback</i> en tres escenarios diferentes:</b> posteriormente de haber realizado el lanzamiento de un producto o servicio, cuando se determina un cambio brusco en el proceso de un producto o servicio y cuando un producto o servicio se conserva estancado.
                 p.mb-4 <b> Esto no quiere decir que en el momento que se pretenda o decida implementarlos no se pueda hacer, lo más importante es determinar cuál es el <i>feeback</i> más adecuado para lo que se pretenda hacer.</b>
-    .row.mb-4
-      .col-lg-3.col-md-7.col-10
+    .row.mb-4(data-aos="fade-up-right")
+      .col-lg-4.col-md-7.col-10
         .tarjeta.colorsub.p-2
           h4.mb-0.text-center.text-white Estrategias para conseguir <i>feeback</i>:  
 
-    .row.mb-4
+    .row.mb-4(data-aos="fade")
       .col-md-7
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-azul")
           .row(titulo="Envío de correos de seguimiento")

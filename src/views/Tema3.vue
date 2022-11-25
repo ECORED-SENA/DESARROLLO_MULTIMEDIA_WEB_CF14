@@ -8,10 +8,10 @@
       h1 Aplicaciones de técnicas de posicionamiento
 
     .row.mb-4
-      .col-md-7
+      .col-md-7(data-aos="fade-right")
         .cajon-b.color-acento-contenido
           p.mb-4 Son técnicas de posicionamiento en buscadores que debes incluir en la estrategia de <i>marketing</i> y publicidad. Gracias a estas técnicas una página o sitio <i>web</i> puede aparecer cuando se hace una búsqueda determinada en cualquier herramienta de búsqueda <i>online</i>.
-      .col-md-5
+      .col-md-5(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema3/img1.jpg', alt='')
     Separador
@@ -19,9 +19,9 @@
     #t_3_1.titulo-segundo.color-acento-botones
       .h2 3.1	Aplicación de técnicas SEO
     
-    p.mb-4 En la implementación de técnicas en los procesos de SEO, como cualquier proyecto a desarrollar es importante crear preventivamente una estrategia y definir unos objetivos, planificar una buena estrategia de SEO, será la base para la incorporación de todo y cada uno de los elementos a trabajar. Dicho de otra manera, como un rompecabezas, si se organiza cada ficha adecuadamente en una base, se obtendrán fácilmente los mejores resultados.
+    p.mb-4(data-aos="fade-right") En la implementación de técnicas en los procesos de SEO, como cualquier proyecto a desarrollar es importante crear preventivamente una estrategia y definir unos objetivos, planificar una buena estrategia de SEO, será la base para la incorporación de todo y cada uno de los elementos a trabajar. Dicho de otra manera, como un rompecabezas, si se organiza cada ficha adecuadamente en una base, se obtendrán fácilmente los mejores resultados.
 
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-4(data-aos="fade")
       .col-lg-10.col-12
         .bloque-texto-g1.color-rojo.p-3.p-sm-4.p-md-5
           .bloque-texto-g1__img(
@@ -29,9 +29,9 @@
           )
           .bloque-texto-g1__texto.p-5
             p A veces se cometen errores por no aplicar adecuadamente las técnicas, un ejemplo puede ser el uso inadecuado de palabras claves, definir contenidos inapropiados que no persuadan y no sean lo suficiente relevantes con el concepto del sitio <i>web</i>. Se debe entender que cada elemento debe ir enlazado y bien aplicado, es decir que se complemente el uno con el otro.
-    p.mb-4 Sin más preámbulos se describirán las técnicas más importantes en el mejoramiento del SEO:
+    p.mb-4(data-aos="fade-right") Sin más preámbulos se describirán las técnicas más importantes en el mejoramiento del SEO:
 
-    .tarjeta.tarjeta-zul.p-4.mb-4
+    .tarjeta.tarjeta-zul.p-4.mb-4(data-aos="fade")
       PasosB.color-secundario
         .row.align-items-center.justify-content-center(titulo="Definir una estrategia")
           .col-lg-8.col-md-12.mb-4.mb-md-0
@@ -67,13 +67,13 @@
               img(src='@/assets/curso/tema1/img3.png', alt='')
 
         .row.align-items-center.justify-content-center(titulo="Estrategia de contenidos")
-          .col-md-8.col-md-12.mb-4.mb-md-0
+          .col-lg-8.col-md-12.mb-4.mb-md-0
             .row.justify-content-center
               .col-md-11
                 .tarjeta.color-azul2.p-5.mb-4 
                   h4 Estrategia de contenidos
                   p Una de las técnicas más relevantes a tener presente es la creación de contenido, se requiere aplicar estrategias de SEO y la búsqueda de contenidos con el fin de aplicarlos y obtener posicionamiento. Este procedimiento más que incrementar tráfico, su finalidad es segmentar grupos donde se desea posicionar una marca. SEmRush, es una herramienta que permite analizar palabras clave de otras páginas <i>web</i>, ayudando a aumentar circulación de contenido natural.
-          .col-md-2.col-md-4.col-4
+          .col-lg-2.col-md-4.col-4
             figure
               img(src='@/assets/curso/tema1/img4.png', alt='')
 
@@ -142,9 +142,9 @@
                 .tarjeta.color-azul2.p-5.mb-4
                   h4 Implementar Google Analytics
                   p La implementación de herramientas de seguimiento como Google analytics es muy importante ya que ayuda a realizar seguimiento en relación con los usuarios, su experiencia desde la interacción con el sitio, permitiendo accionar la experiencia del usuario. 
-          .col-lg-4.col-md-8.col-8
+          .col-lg-2.col-md-8.col-8
             figure.mb-2
-              img(src='@/assets/curso/tema1/img10.png', alt='')
+              img(src='@/assets/curso/tema1/img10.jpg', alt='')
             .col-auto
               a.boton.color-acento-botones.indicador__container(@click="modal1 = true")
                 span Ampliar
@@ -205,19 +205,19 @@
       .row.align-items-center
         .col-md-12.mb-4.mb-md-0
           figure
-            img(src='@/assets/curso/tema1/img10.png', alt='')
+            img(src='@/assets/curso/tema1/img10.jpg', alt='')
     Separador
 
     #t_3_2.titulo-segundo.color-acento-botones
       .h2 3.2 Aplicación de técnicas SEM 
 
     .bg_grad-03
-      p.mb-5 Entender y comprender los diferentes elementos que componen una estratégica SEM, implican una serie de técnicas a desarrollar, para esto es imprescindible, tener presentes algunos conceptos importantes en el <i>marketing</i> digital. El buscador más importante en el mundo es Google, así que entrando en materia se hará referencia a Google Ads. <b>A continuación se relacionan los aspectos que se deben tener en cuenta: </b>
+      p.mb-5(data-aos="fade-right") Entender y comprender los diferentes elementos que componen una estratégica SEM, implican una serie de técnicas a desarrollar, para esto es imprescindible, tener presentes algunos conceptos importantes en el <i>marketing</i> digital. El buscador más importante en el mundo es Google, así que entrando en materia se hará referencia a Google Ads. <b>A continuación se relacionan los aspectos que se deben tener en cuenta: </b>
 
-      .row.justify-content-center.align-items-center.mb-5
+      .row.justify-content-center.align-items-center.mb-5(data-aos="fade")
         .col-md-10
           SlyderF(columnas="col-lg-6 col-xl-4")
-            .tarjeta.color-secundario.p-4.mb-4
+            .tarjeta.color-secundario.p-4
               h5 Palabra clave <i>keyword</i>
               p Es la línea en la que se estructura el <i>marketing</i> en buscadores. Esto quiere decir que las palabras claves, con las que conforman la redacción del anuncio que se visualiza a las personas.
 
@@ -253,17 +253,17 @@
               h5 Nivel de calidad
               p Es la calificación definida por Google de una palabra clave o anuncio para definir el CPC, cuanto mejor es la calidad del anuncio, menos se pagará por cada clic.
       
-      p.mb-5 <b> <FONT COLOR="#1565C0"> Teniendo claro estos conceptos, es importante poner en marcha una estrategia SEM, </FONT> </b> esto implica un análisis arduo en la búsqueda de palabras claves, detectar cual es la mejor opción y que se diferencien de la competencia. Como en un rompecabezas, las palabras claves son la esencia en la estrategia SEM. Por otra parte, se deben definir los objetivos a alcanzar, que desea obtener: tráfico, conversiones. Definir el grupo objetivo, cualidades, intereses, ubicación. Definir la inversión que se va a disponer para la campaña SEM, como se puede observar en el siguiente recurso:
+      p.mb-5(data-aos="fade-right") <b> <FONT COLOR="#1565C0"> Teniendo claro estos conceptos, es importante poner en marcha una estrategia SEM, </FONT> </b> esto implica un análisis arduo en la búsqueda de palabras claves, detectar cual es la mejor opción y que se diferencien de la competencia. Como en un rompecabezas, las palabras claves son la esencia en la estrategia SEM. Por otra parte, se deben definir los objetivos a alcanzar, que desea obtener: tráfico, conversiones. Definir el grupo objetivo, cualidades, intereses, ubicación. Definir la inversión que se va a disponer para la campaña SEM, como se puede observar en el siguiente recurso:
 
     .bg_grad-04
-      .row.mb-4
+      .row.mb-4(data-aos="fade-up")
         .col-md-12
           h4.text-center Desarrollo de campaña SEM
         .col-md-12
           p.mb-4.text-center <b>Análisis de palabras claves:</b> en la búsqueda palabras claves se deben análisis los siguientes temas: 
 
       .row.justify-content-center.mb-4
-        .col-md-11
+        .col-md-11(data-aos="fade-right")
           .row.align-items-center.mb-4
             .col-md-6
               figure
@@ -289,7 +289,7 @@
                   li 
                     i.fas.fa-check
                     p.mb-0 Jerarquizar las palabras claves.
-        .col-md-11
+        .col-md-11(data-aos="fade-right")
           .row 
             .tarjeta.color5.p-5
               .col-md-8
@@ -308,7 +308,7 @@
                   i.fas.fa-check
                   p.mb-0 Redacción de anuncios, implementar un lenguaje primario, creativo, claro, conciso, que persuada, que genere una intención positiva en el usuario.
 
-      .row.mb-4
+      .row.mb-4(data-aos="fade")
         .col-md-12
           TabsC.color-secundario
             .py-3.py-md-4(titulo="Análisis y optimización")

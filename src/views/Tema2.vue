@@ -7,13 +7,13 @@
         span 2
       h1 Fundamentos de posicionamiento SEM
 
-    p.mb-4 El SEM son las siglas de Search Engine Marketing, es decir conjunto de técnicas de mercadotecnia que se utiliza para estrategias que nos ayudan a obtener mejor impacto en buscadores generando de esta forma recibir más tráfico en páginas y sitios <i>web</i> a través de un mecanismo de búsqueda. 
-    p.mb-4 <b>Para conocer con mayor precisión en qué consiste el posicionamiento SEM, se podrá ver el siguiente video:</b>
-    figure.mb-5
+    p.mb-4(data-aos="fade-right") El SEM son las siglas de Search Engine Marketing, es decir conjunto de técnicas de mercadotecnia que se utiliza para estrategias que nos ayudan a obtener mejor impacto en buscadores generando de esta forma recibir más tráfico en páginas y sitios <i>web</i> a través de un mecanismo de búsqueda. 
+    p.mb-4(data-aos="fade-right") <b>Para conocer con mayor precisión en qué consiste el posicionamiento SEM, se podrá ver el siguiente video:</b>
+    figure.mb-5(data-aos="fade")
       .video
         iframe(width="942" height="530" src="https://www.youtube.com/embed/ne_yaOOLL5Q" title="Posicionamiento SEM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-4(data-aos="fade")
       .col-lg-10.col-12
         .bloque-texto-g.color-gris.p-5.p-sm-4.p-md-5
           .bloque-texto-g__img(
@@ -26,9 +26,9 @@
     #t_2_1.titulo-segundo.color-acento-botones
       .h2 2.1	Componentes SEM
 
-    p.mb-4 Diseñar una buena estrategia SEM, implica aspectos a tener en cuenta con el objetivo de obtener los mejores resultados y optimizar la inversión. Se debe diseñar la estrategia teniendo presente los siguientes aspectos:
+    p.mb-4(data-aos="fade-right") Diseñar una buena estrategia SEM, implica aspectos a tener en cuenta con el objetivo de obtener los mejores resultados y optimizar la inversión. Se debe diseñar la estrategia teniendo presente los siguientes aspectos:
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
       .tarjeta.color1.p-4
         .row.align-items-center
           .col-md-4
@@ -51,13 +51,13 @@
               li 
                 i.fas.fa-check
                 p.mb-1 Estrategias de proporción, la publicidad se maneja por temporalidades esto quiere decir que se debe aprovechar al máximo fechas importantes, definir cómo y cuándo aplicarlas.
-    p.mb-4 <b>Para tener una buena estrategia SEM se deben reconocer las ventajas que tiene:</b>
+    p.mb-4(data-aos="fade-right") <b>Para tener una buena estrategia SEM se deben reconocer las ventajas que tiene:</b>
     .bg_grad-02
       .row.justify-content-center.align-items-center.mb-4
-        .col-md-5
+        .col-md-5(data-aos="fade-right")
           figure
             img(src='@/assets/curso/tema2/img2.png', alt='Texto que describa la imagen')
-        .col-md-7
+        .col-md-7(data-aos="fade-left")
           .row.justify-content-center.align-items-center.mb-4
             .col-md-10
               SlyderF.mb-5(columnas="col-lg-12 col-xl-12")
@@ -65,38 +65,38 @@
                   img(src='@/assets/curso/tema2/avatar1.svg' alt='')
                   .tarjeta.color-tarjeta
                     .text-black.p-4
-                      h5 Crece el tráfico en la <i>web</i>
+                      h4 Crece el tráfico en la <i>web</i>
                       p.mb-0 Realizando un buen trabajo SEM se consigue obtener mejores visitas de nuestra <i>web</i>, teniendo en cuenta que los objetivos pueden ser variados desde ofrecer nuestro producto de hecho hasta potenciar nuestra marca. Por esta razón es importante ajustar las campañas a los objetivos determinados.
 
                 .tarjeta-avatar
                   img(src='@/assets/curso/tema2/avatar4.svg' alt='')
                   .tarjeta.color-tarjeta
                     .text-black.p-4
-                      h5 Posicionamiento rápido
+                      h4 Posicionamiento rápido
                       p.mb-0 Resultado en menor tiempo, especialmente si lo relacionamos con las técnicas SEO las cuales funcionan a mediano y largo plazo mientras que si se cuenta con el presupuesto en poco tiempo la compañía recibirá vistas de inmediato.
 
                 .tarjeta-avatar
                   img(src='@/assets/curso/tema2/avatar3.svg' alt='')
                   .tarjeta.color-tarjeta
                     .text-black.p-4
-                      h5 Presupuesto personalizado
+                      h4 Presupuesto personalizado
                       p.mb-0 Controlar y ajustar el presupuesto y así definir al máximo lo que estamos dispuesto a desembolsar en la compaña. Cuanto se invertirá día tras día y lo que estamos dispuestos a pagar por cada clic (CPC) por lo que se estudiará si realmente conseguimos una oportunidad de venta o conversión.
 
                 .tarjeta-avatar
                   img(src='@/assets/curso/tema2/avatar2.svg' alt='')
                   .tarjeta.color-tarjeta
                     .text-black.p-4
-                      h5 Poder de segmentación
+                      h4 Poder de segmentación
                       p.mb-0 Dependiendo se puede escoger un público objetivo a comparación del SEO. Se puede instaurar en base a unos criterios como edad, comportamiento, palabra clave o localización.
     Separador
 
     #t_2_2.titulo-segundo.color-acento-botones
       .h2 2.2 Características SEM
 
-    p.mb-4 SEM tiene diferentes tipos de características que permite sea más efectivo su optimización, así mismo los inconvenientes que pueda tener para su implementación. 
+    p.mb-4(data-aos="fade-right") SEM tiene diferentes tipos de características que permite sea más efectivo su optimización, así mismo los inconvenientes que pueda tener para su implementación. 
 
     .row.justify-content-center.mb-4
-      .col-md-5.mb-5
+      .col-md-8.col-lg-5.col-10.mb-5(data-aos="fade-right")
         .tarjetar.color2.p-3.mb-2
           h4.text-center.mb-0 Características
         .row.mb-5
@@ -132,7 +132,7 @@
       .col-md-2
         span
     
-      .col-md-5
+      .col-md-8.col-lg-5.col-10(data-aos="fade-left")
         .tarjetar.color4.p-3.mb-2
           h4.text-center.mb-0 Inconvenientes 
         .row.mb-5
