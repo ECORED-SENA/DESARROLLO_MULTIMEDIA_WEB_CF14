@@ -106,7 +106,7 @@
                 figure
                   img(src='@/assets/curso/tema2/punto.svg' alt='')
               h5.mb-1 Acciones de pago
-              p.mb-0 Corresponde al protocolo de pago por <i>click</i>, dicho de otra forma, únicamente se cancela por clicks recibidos por usuarios.
+              p.mb-0 Corresponde al protocolo de pago por <i>clics</i>, dicho de otra forma, únicamente se cancela por <i>clics</i> recibidos por usuarios.
 
             .tarjeta-numerada.color-acento-contenido.p-4.mb-4
               .tarjeta-numerada__numero
@@ -142,7 +142,7 @@
                 figure
                   img(src='@/assets/curso/tema2/punto2.svg' alt='')
               h5.mb-1 Desaparición rápida
-              p.mb-0 Corresponde al protocolo de pago por <em>click</em>, dicho de otra forma, únicamente se cancela por clicks recibidos por usuarios.
+              p.mb-0 Una campaña SEM adquiere una capital a largo plazo, solo funciona mientras estás inyectando presupuesto, teniendo en cuenta también que si un competidor hace una oferta superior la posición de privilegio desaparece, lo cual puede ser inalcanzable para pequeñas empresas.
 
             .tarjeta-numerada1.color-acento-contenido.p-4.mb-4
               .tarjeta-numerada1__numero

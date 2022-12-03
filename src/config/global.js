@@ -167,7 +167,7 @@ export default {
     },
     {
       referencia:
-        'Cámara Zamora (2020). Posicionamiento SEM: Marketing en Buscadores.',
+        'Cámara Zamora (2020). Posicionamiento SEM: <em>Marketing</em> en Buscadores.',
       link:
         'https://www.camarazamora.com/posicionamiento-sem-marketing-en-buscadores',
     },
@@ -187,13 +187,13 @@ export default {
     },
     {
       referencia:
-        'Hablemos de empresas (2018). ¿Qué es el SEM? Explicamos el Search Engine Marketing y cómo puedes aplicarlo a tu negocio online.',
+        'Hablemos de empresas (2018). ¿Qué es el SEM? Explicamos el <em>Search Engine Marketing</em> y cómo puedes aplicarlo a tu negocio online.',
       link:
         'https://hablemosdeempresas.com/empresa/sem-search-engine-marketing/',
     },
     {
       referencia:
-        'Hubspot (2021). 16 estrategias para conseguir feedback de tus clientes.',
+        'Hubspot (2021). 16 estrategias para conseguir <em>feedback</em> de tus clientes.',
       link: 'https://blog.hubspot.es/service/estrategias-feedback-clientes',
     },
     {
@@ -203,13 +203,13 @@ export default {
     },
     {
       referencia:
-        'Internet ya (2020). La importancia de un diseño web responsive.',
+        'Internet ya (2020). La importancia de un diseño <em>web</em> responsive.',
       link:
         'https://www.internetya.co/la-importancia-de-un-diseno-web-responsive/',
     },
     {
       referencia:
-        'Marketing y web (2017). 25 Técnicas SEO que mejor funcionan [Ejemplos]. ',
+        '<em>Marketing</em> y <em>web</em> (2017). 25 Técnicas SEO que mejor funcionan [Ejemplos]. ',
       link: 'https://www.marketingandweb.es/marketing/tecnicas-seo/',
     },
     {
@@ -220,8 +220,8 @@ export default {
     },
     {
       referencia:
-        'Mullbrand (2020). 10 Técnicas SEO para mejorar el posicionamiento web. ',
-      link: 'https://mullbrand.com/10tecnicas-seo/',
+        'Mullbrand (2020). 10 Técnicas SEO para mejorar el posicionamiento <em>web</em>.',
+      link: 'https://mullbrand.com/10-tecnicas-seo/',
     },
     {
       referencia: 'Pixel vivo (2021). ¿Qué son los wireflows?',
@@ -229,17 +229,17 @@ export default {
     },
     {
       referencia:
-        'Rockcontent (2019). SEM: conoce el marketing para buscadores y cómo usarlo para impulsar la presencia digital de tu marca.',
+        'Rockcontent (2019). SEM: conoce el <em>marketing</em> para buscadores y cómo usarlo para impulsar la presencia digital de tu marca.',
       link: 'https://rockcontent.com/es/blog/que-es-search-engine-marketing/',
     },
     {
       referencia:
-        'Rock content (2018). ¿Qué son los backlinks? Guía práctica y muy útil para mejorar tu SEO.',
+        'Rock content (2018). ¿Qué son los <em>backlinks</em>? Guía práctica y muy útil para mejorar tu SEO.',
       link: 'https://rockcontent.com/es/blog/que-son-los-backlinks/',
     },
     {
       referencia:
-        'The power mba (2021). Top 21 herramientas de analítica web que te ayudarán a tomar decisiones inteligentes basadas en datos reales.',
+        'The power mba (2021). Top 21 herramientas de analítica <em>web</em> que te ayudarán a tomar decisiones inteligentes basadas en datos reales.',
       link:
         'https://www.thepowermba.com/es/herramientas/mejores-herramientas-de-analitica-web/',
     },
@@ -248,7 +248,7 @@ export default {
     {
       termino: 'SEM',
       significado:
-        ' El SEM, las siglas de Search Engine Marketing, hace referencia al <i>marketing</i> y publicidad que se realiza en los distintos motores de búsqueda. Concretamente, se refiere a todas aquellas acciones de pago que se pueden realizar en los buscadores o en las páginas <i>web</i> y que tienen como objetivo captar tráfico e incrementar la visibilidad de los negocios rápidamente (Cámara Zamora, 2020).',
+        ' El SEM, las siglas de <i>Search Engine Marketing</i>, hace referencia al <i>marketing</i> y publicidad que se realiza en los distintos motores de búsqueda. Concretamente, se refiere a todas aquellas acciones de pago que se pueden realizar en los buscadores o en las páginas <i>web</i> y que tienen como objetivo captar tráfico e incrementar la visibilidad de los negocios rápidamente (Cámara Zamora, 2020).',
     },
     {
       termino: 'SEO',
@@ -258,17 +258,17 @@ export default {
     {
       termino: '<i>Responsive</i>',
       significado:
-        ' Diseño <i>web responsive</i> es una manera de diseñar y codificar un sitio <i>web</i> que hace que cada elemento de la navegación del sitio sea ajustable basado en el tamaño de pantalla. Texto, imágenes y videos, todos se mueven en su posición apropiada sobre la base de qué tan grande es el espacio de visualización disponible (internet ya, 2020).',
+        ' Diseño <i>web responsive</i> es una manera de diseñar y codificar un sitio <i>web</i> que hace que cada elemento de la navegación del sitio sea ajustable basado en el tamaño de pantalla. Texto, imágenes y videos, todos se mueven en su posición apropiada sobre la base de qué tan grande es el espacio de visualización disponible (Internet ya, 2020).',
     },
     {
       termino: 'Google Analytis',
       significado:
-        ' La herramienta te permite hacer un seguimiento de sitios <i>web, blogs</i> y redes sociales. Además, pone a tu disposición informes predeterminados y personalizables. (antevenio, 2015).',
+        ' La herramienta te permite hacer un seguimiento de sitios <i>web, blogs</i> y redes sociales. Además, pone a tu disposición informes predeterminados y personalizables. (Antevenio, 2015).',
     },
     {
       termino: '<i>Backlinks</i>',
       significado:
-        ' Los backlinks son enlaces dispuestos en un texto que dirigen al lector a otro sitio que tenga contenido relacionado con lo que está leyendo (<i>rock content,</i> 2018).',
+        ' Los <i>Backlinks</i> son enlaces dispuestos en un texto que dirigen al lector a otro sitio que tenga contenido relacionado con lo que está leyendo (<i>Rock Content,</i> 2018).',
     },
     {
       termino: 'SEmRush',
@@ -278,7 +278,7 @@ export default {
     {
       termino: '<i>Landing page</i>',
       significado:
-        ' Una <i>Landing Page</i> (página de aterrizaje) es una página dentro de un sitio <i>web</i>, desarrollada con el único objetivo de convertir los visitantes en Leads o prospectos de ventas por medio de una oferta determinada. Generalmente tiene un diseño más sencillo con pocos enlaces e informaciones básicas sobre la oferta, además de un formulario para realizar la conversión (RD Station, 2018).',
+        ' Una <i>Landing Page</i> (página de aterrizaje) es una página dentro de un sitio <i>web</i>, desarrollada con el único objetivo de convertir los visitantes en <i>Leads</i> o prospectos de ventas por medio de una oferta determinada. Generalmente tiene un diseño más sencillo con pocos enlaces e informaciones básicas sobre la oferta, además de un formulario para realizar la conversión (RD Station, 2018).',
     },
     {
       termino: '<i>Wireflow</i>',
@@ -288,7 +288,7 @@ export default {
     {
       termino: '<em>Feedback</em>',
       significado:
-        ' La retroalimentación o <em>feedback</em> es la opinión que alguien tiene de un servicio o producto determinado del que ha hecho uso o que ha consumido. Al reunir y gestionar un gran número de opiniones podemos utilizar el feedback como una herramienta para crear una evaluación del servicio o producto en cuestión (hudspot, 2021).',
+        ' La retroalimentación o <em>feedback</em> es la opinión que alguien tiene de un servicio o producto determinado del que ha hecho uso o que ha consumido. Al reunir y gestionar un gran número de opiniones podemos utilizar el <em>feedback</em> como una herramienta para crear una evaluación del servicio o producto en cuestión (Hudspot, 2021).',
     },
   ],
   complementario: [

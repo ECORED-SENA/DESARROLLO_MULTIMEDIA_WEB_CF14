@@ -141,7 +141,7 @@
               .col-md-11
                 .tarjeta.color-azul2.p-5.mb-4
                   h4 Implementar Google Analytics
-                  p La implementación de herramientas de seguimiento como Google analytics es muy importante ya que ayuda a realizar seguimiento en relación con los usuarios, su experiencia desde la interacción con el sitio, permitiendo accionar la experiencia del usuario. 
+                  p La implementación de herramientas de seguimiento como Google Analytics es muy importante ya que ayuda a realizar seguimiento en relación con los usuarios, su experiencia desde la interacción con el sitio, permitiendo accionar la experiencia del usuario. 
           .col-lg-2.col-md-8.col-8
             figure.mb-2
               img(src='@/assets/curso/tema1/img10.jpg', alt='')
@@ -194,10 +194,10 @@
                             | Crea un mapa del sitio e intégralo en Google Search Console.
                           li 
                             i.fas.fa-check
-                            | Optimiza el contenido del sitio <i>web</i>.
+                            p.mb-0 Optimiza el contenido del sitio <i>web.</i>
                           li 
                             i.fas.fa-check
-                            | Optimizar la información de la <i>web</i> es fundamental.    
+                            p Optimizar la información de la <i>web.</i> es fundamental.    
           .col-lg-2
             span
 
@@ -231,7 +231,7 @@
 
             .tarjeta.color-secundario.p-4
               h5 Red de búsqueda
-              p Los buscadores cuentan con espacios segmentados para las pautas, normalmente se hace en la parte superior, o la parte derecha de la página de resultados, y también cuenta con otras opciones como Google Shopping o Google maps.
+              p Los buscadores cuentan con espacios segmentados para las pautas, normalmente se hace en la parte superior, o la parte derecha de la página de resultados, y también cuenta con otras opciones como Google Shopping o Google Maps.
 
             .tarjeta.color-secundario.p-4
               h5 Impresiones
@@ -303,7 +303,7 @@
                   p.mb-0 Conjunto de anuncios, segmentación si te tienen varios productos, o un anuncio si es para un producto.
                 li 
                   i.fas.fa-check
-                  p.mb-0 Diseño y diagramación de <i>landing pages</i> (página de aterrizaje) es decir donde conlleva la acción al dar click en el anuncio.
+                  p.mb-0 Diseño y diagramación de <i>landing pages</i> (página de aterrizaje) es decir donde conlleva la acción al dar <em>clics</em> en el anuncio.
                 li 
                   i.fas.fa-check
                   p.mb-0 Redacción de anuncios, implementar un lenguaje primario, creativo, claro, conciso, que persuada, que genere una intención positiva en el usuario.
@@ -311,8 +311,8 @@
       .row.mb-4(data-aos="fade")
         .col-md-12
           TabsC.color-secundario
-            .py-3.py-md-4(titulo="Análisis y optimización")
-              .row.justify-content-center.align-items-center.mb-4
+            .py-3.py-md-4.fondotabs(titulo="Análisis y optimización")
+              .row.justify-content-center.align-items-center.mb-4.p-4
                 .col-md-4.mb-4.mb-md-0
                   figure
                     img(src='@/assets/curso/tema3/img1.png', alt='Texto que describa la imagen')
@@ -321,8 +321,8 @@
                   h4 <FONT COLOR="#1565C0"> Análisis y optimización</FONT>
                   p Una vez se lanza la campaña, se continuará con su análisis y supervisión ir observando el comportamiento de la campaña y realizar ajustes que se presenten con el fin de optimizarla mejor.            
 
-            .py-3.py-md-4(titulo="Las estrategias de marketing digital")
-              .row.justify-content-center.align-items-center.mb-4
+            .py-3.py-md-4.fondotabs(titulo="Las estrategias de <em>marketing</em> digital")
+              .row.justify-content-center.align-items-center.mb-4.p-4
                 .col-md-4.mb-4.mb-md-0
                   figure
                     img(src='@/assets/curso/tema3/img2.png', alt='Texto que describa la imagen')
@@ -330,17 +330,16 @@
                 .col-md-6
                   h4 <FONT COLOR="#1565C0"> Las estrategias de <i>marketing</i> digital</FONT>
                   p Van más allá de la implantación de las estrategias SEM Y SEO. Las redes sociales juegan un papel muy importante en el proceso de posicionamiento, se deben unificar en el diseño estratégico, así como otros buscadores diferentes a Google. 
-                  span <b>Aquí un ejemplo de los buscadores más tradicionales y conocidos:</b>
             
-            .py-3.py-md-4(titulo="Mediciones de SEM")
-              .row.justify-content-center.align-items-center.mb-4
+            .py-3.py-md-4.fondotabs(titulo="Mediciones de SEM")
+              .row.justify-content-center.align-items-center.mb-4.p-4
                 .col-md-4.mb-4.mb-md-0
                   figure
                     img(src='@/assets/curso/tema3/img3.png', alt='Texto que describa la imagen')
                   
                 .col-md-7
                   h4 <FONT COLOR="#1565C0"> Mediciones de SEM</FONT>
-                  p En el desarrollo de las estrategias SEM, es fundamental previamente conocer los KPI, este término hace referencia a (key performance indicador) conocido también como indicador clave de rendimiento, son los números o medidas que se implementan para la medición en el proceso de una campaña. 
+                  p En el desarrollo de las estrategias SEM, es fundamental previamente conocer los KPI, este término hace referencia a <em>(key performance indicador)</em> conocido también como indicador clave de rendimiento, son los números o medidas que se implementan para la medición en el proceso de una campaña. 
                   .tarjeta.color-azul2.p-4
                     SlyderA(tipo="b")
                       .row

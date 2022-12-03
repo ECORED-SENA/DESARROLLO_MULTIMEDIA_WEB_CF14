@@ -14,7 +14,7 @@
         figure
           img(src='@/assets/curso/temas/vec1.svg', alt='')
       .col-lg-11.col-9
-        p.mb-0 El posicionamiento orgánico o conocido como SEO significa (Search Engine Optimization) y  en el siguiente video se conocerán las utilidades más algunos datos importantes de este, además de SEM y cómo se vinculan ambas funciones.
+        p.mb-0 El posicionamiento orgánico o conocido como SEO significa <em>(Search Engine Optimization)</em> y  en el siguiente video se conocerán las utilidades más algunos datos importantes de este, además de SEM y cómo se vinculan ambas funciones.
 
     figure.mb-5(data-aos="fade")
       .video

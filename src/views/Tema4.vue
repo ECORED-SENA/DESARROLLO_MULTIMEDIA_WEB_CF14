@@ -11,11 +11,11 @@
     Separador
 
     #t_4_1.titulo-segundo.color-acento-botones
-      .h2 4.1	Google analytics 
+      .h2 4.1	Google Analytics 
 
     .row.align-items-center.mb-4
       .col-md-7(data-aos="fade-right")
-        <b> <FONT COLOR="#1565C0"> Google analytics </FONT> </b> es la herramienta que ofrece la posibilidad de realizar seguimiento a sitios <i>web</i> y redes sociales, suministrando contenido de un sitio <i>web</i>, dicho de otra manera, ayuda a medir y analizar lo que sucede en un sitio <i>web</i>. Analytics es una herramienta compatible con las demás herramientas de Google.
+        <b> <FONT COLOR="#1565C0"> Google Analytics </FONT> </b> es la herramienta que ofrece la posibilidad de realizar seguimiento a sitios <i>web</i> y redes sociales, suministrando contenido de un sitio <i>web</i>, dicho de otra manera, ayuda a medir y analizar lo que sucede en un sitio <i>web</i>. Analytics es una herramienta compatible con las demás herramientas de Google.
       .col-md-4(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema4/img1.jpg', alt='')
@@ -93,8 +93,8 @@
 
       .tarjeta.tarjeta-zul.p-4.mb-4
         PasosB.color-secundario
-          .row.align-items-center(titulo="Definir una estrategia")
-            .col-md-8.mb-4.mb-md-0
+          .row.justify-content-center.align-items-center(titulo="Recopilación de información")
+            .col-lg-8.col-md-12.col-12.mb-4.mb-md-0
               .row.justify-content-center
                 .col-md-11
                   .tarjeta.color-azul2.p-4
@@ -102,47 +102,47 @@
                     p.mb-3 El primer paso es la respuesta del servidor el cual envía la página que se solicita al navegador del usuario, en este proceso el navegador analiza la información y se pondrá en contacto con otros servidores. Así funciona el código de Google analytics.
                     p.mb-3 Posteriormente el navegador del usuario que visita una página le solicita ese código a <i>analytics</i>. Acto seguido la plataforma lo envía y se guarda en un fichero.
                     p.mb-3 <b>Una vez se almacena la información, el código crea <i>cookies</i> en el computador o dispositivo móvil del usuario.</b>
-                    p.mb-0 Una vez están definidas las <i>cookies</i>, el código envía la información al servidor de Google analytics con la solicitud de un fichero GIF invisible. Esta información es almacenada en otro fichero denominado fichero <i>logs</i> y crea un apartado de datos en el mismo por cada página visitada.
-            .col-md-3
+                    p.mb-0 Una vez están definidas las <i>cookies</i>, el código envía la información al servidor de Google Analytics con la solicitud de un fichero GIF invisible. Esta información es almacenada en otro fichero denominado fichero <i>logs</i> y crea un apartado de datos en el mismo por cada página visitada.
+            .col-lg-3.col-md-8.col-8
               figure
                 img(src='@/assets/curso/tema4/1.jpg', alt='')
 
-          .row.align-items-center(titulo="Definir el grupo objetivo")
-            .col-md-8.mb-4.mb-md-0
+          .row.justify-content-center.align-items-center(titulo="Procesamiento de información")
+            .col-lg-8.col-md-12.col-12.mb-4.mb-md-0
               .row.justify-content-center
                 .col-md-11
                   .tarjeta.color-azul2.p-4
                     h4 Procesamiento de información 
-                    p En cuanto se compilan las acciones de los usuarios Google analytics empieza la reorganización en datos importantes que suministran información útil. 
-            .col-md-3
+                    p En cuanto se compilan las acciones de los usuarios Google Analytics empieza la reorganización en datos importantes que suministran información útil. 
+            .col-lg-3.col-md-8.col-8
               figure
                 img(src='@/assets/curso/tema4/2.jpg', alt='')
 
-          .row.align-items-center(titulo="Configuración Google analytics")
-            .col-md-8.mb-4.mb-md-0
+          .row.justify-content-center.align-items-center(titulo="Configuración Google analytics")
+            .col-lg-8.col-md-12.col-12.mb-4.mb-md-0
               .row.justify-content-center
                 .col-md-11
                   .tarjeta.color-azul2.p-4
-                    h4 Configuración Google analytics 
+                    h4 Configuración Google Analytics 
                     p Suministra su configuración a los datos sin procesar. Cuando se realiza el procesamiento de datos una vez almacenados en la base de datos no se podrán cambiar ni editar.
-            .col-md-3
+            .col-lg-3.col-md-8.col-8
               figure
                 img(src='@/assets/curso/tema4/3.jpg', alt='')
 
-          .row.align-items-center(titulo="Generación de informes")
-            .col-md-8.mb-4.mb-md-0
+          .row.justify-content-center.align-items-center(titulo="Generación de informes")
+            .col-lg-8.col-md-12.col-12.mb-4.mb-md-0
               .row.justify-content-center
                 .col-md-11
                   .tarjeta.color-azul2.p-4
                     h4 Generación de informes 
                     p Cuando se requiere mirar informes de se puede realizar a través del servicio <i>web</i> de Google analytics, estos informes se organizan en relación a diferenciaciones de rangos, dicho de otra manera, se organizan comportamientos como el lugar de un usuario o el porcentaje que llevan los usuarios en llevar a cabo una determinada acción. 
-            .col-md-3
+            .col-lg-3.col-md-8.col-8
               figure
                 img(src='@/assets/curso/tema4/4.jpg', alt='')
       .row.mb-4
         .col-md-12
           .cajon-b.color-acento-contenido
-            p.mb-0 <b>Una de las cualidades de Google analytics es permitir saber el comportamiento de las campañas de <i>marketing</i> digital,</b>  es importante saber la manera de estructurar los objetivos, de esta forma se logrará obtener información valiosa para futuros cambios. Se pueden organizar objetivos que se quieran tales como el número de visitas de un usuario, cantidad de páginas visitadas, etc. <b>No obstante, se cuenta con la función de objetivos automáticos, estos son</b>
+            p.mb-0 <b>Una de las cualidades de Google Analytics es permitir saber el comportamiento de las campañas de <i>marketing</i> digital,</b>  es importante saber la manera de estructurar los objetivos, de esta forma se logrará obtener información valiosa para futuros cambios. Se pueden organizar objetivos que se quieran tales como el número de visitas de un usuario, cantidad de páginas visitadas, etc. <b>No obstante, se cuenta con la función de objetivos automáticos, estos son</b>
 
       .row.justify-content-center.align-items-center.mb-4
         .col-lg-3.col-md-6
@@ -362,7 +362,7 @@
                 li 
                   i.fas.fa-check
                   p.mb-0 Entender como los usuarios interactúan en un sitio <i>web</i> o programa. 
-              p.mb-4 Frecuentemente los desarrolladores pueden redactar un seudocódigo, una mezcla de lenguaje natural y lenguaje informático, que logre ser leído por los usuarios. Esto puede autorizar más detalle que el diagrama de flujo y ayudar como cambio del diagrama de flujo o como el siguiente procedimiento del código.
+              p.mb-4 Frecuentemente los desarrolladores pueden redactar un Pseudocódigo, una mezcla de lenguaje natural y lenguaje informático, que logre ser leído por los usuarios. Esto puede autorizar más detalle que el diagrama de flujo y ayudar como cambio del diagrama de flujo o como el siguiente procedimiento del código.
             .col-md-4
               figure
                 img(src='@/assets/curso/tema4/img3.jpg', alt='')
@@ -382,7 +382,7 @@
       .col-lg-4.mb-4
         .tarjeta.colorlinealnaranja.p-4.mb-2
           h4 Diagramas Nassi:
-          p.mb-0 implementado en la programación estructurada en la ingeniería de sistemas.
+          p.mb-0 Implementado en la programación estructurada en la ingeniería de sistemas.
 
     p.mb-4(data-aos="fade-right") En la siguiente imagen se detalla un ejemplo de diagrama de flujo, relacionando con una actividad cotidiana.
     .row.justify-content-center.mb-4
@@ -505,7 +505,7 @@
               .col-5
                 figure.mb-4
                   img(src='@/assets/curso/tema4/logo2.png', alt='')
-              p.mb-4 Es un programa diseñado para la elaboración de diagramas de flujo, muy práctico a la hora de utilizarlo en los procesos de trabajo en equipo. brinda varias opciones de clases de diagramas y plantillas. 
+              p.mb-4 Es un programa diseñado para la elaboración de diagramas de flujo, muy práctico a la hora de utilizarlo en los procesos de trabajo en equipo, brinda varias opciones de clases de diagramas y plantillas. 
               figure.mb-4
                 img(src='@/assets/curso/tema4/img5.jpg', alt='')
               .row.mb-4
@@ -569,11 +569,11 @@
     Separador
 
     #t_4_4.titulo-segundo.color-acento-botones
-      .h2 4.4 Sistemas de <i>feeback</i> para usuarios 
+      .h2 4.4 Sistemas de <i>Feedback</i> para usuarios 
     .row.align-items-center.mb-4(data-aos="fade-right")
       .col-md-7
-        p.mb-4 <b> <FONT COLOR="#1565C0"> Un <i>feeback</i> es la opinión que tiene alguien de un producto o servicio predeterminado que en algún momento alguien ha utilizado o consumido. </FONT> </b> Para realizar una cantidad de comentarios acerca de atributos se puede implementar el <i>feeback</i> para realizar este análisis y del servicio o producto determinado. 
-        p.mb-4 Para una compañía es importante el <i>feeback</i> de un cliente ya que permite saber y analizar la opinión de un cliente, un ejemplo puede ser el lanzamiento de un producto el cual inicia con unas ventas altas, pero en el transcurso de los días comienzan a disminuir. El <i>feeback</i> puede ayudar a detectar esa situación y permitir recuperar nuevamente las ventas y elevarlas, preguntarles directamente a los clientes que piensan.
+        p.mb-4 <b> <FONT COLOR="#1565C0"> Un <i>Feedback</i> es la opinión que tiene alguien de un producto o servicio predeterminado que en algún momento alguien ha utilizado o consumido. </FONT> </b> Para realizar una cantidad de comentarios acerca de atributos se puede implementar el <i>Feedback</i> para realizar este análisis y del servicio o producto determinado. 
+        p.mb-4 Para una compañía es importante el <i>Feedback</i> de un cliente ya que permite saber y analizar la opinión de un cliente, un ejemplo puede ser el lanzamiento de un producto el cual inicia con unas ventas altas, pero en el transcurso de los días comienzan a disminuir. El <i>Feedback</i> puede ayudar a detectar esa situación y permitir recuperar nuevamente las ventas y elevarlas, preguntarles directamente a los clientes que piensan.
         .tarjeta.colortext.mb-5
           p.mb-0.textz Darle importancia a la retroalimentación desde diferentes ángulos para abordarla con los clientes y aprovecharla al máximo en el desarrollo de nuevas estrategias. 
       .col-md-5
@@ -584,41 +584,42 @@
       .row.mb-4
         .col-lg-2.col-md-5.col-6
           .tarjeta.colorsub.p-2
-            h4.mb-0.text-center.text-white Clases de <i>feeback</i>:
-      
-      .row.justify-content-center.align-items-center.mb-4
+            h4.mb-0.text-center.text-white Clases de <i>Feedback</i>:
+      br
+      br
+      .row.justify-content-center.align-items-center.mb-5
         .col-md-10
           SlyderF(columnas="col-lg-6 col-xl-4")
             .tarjeta.color13.p-4
-              h5 <i>feeback</i> directo 
+              h5 <i>Feedback</i> directo 
               p Se organiza de forma contundente y mensajes directos.
 
             .tarjeta.color13.p-4
-              h5 <i>feeback</i> indirecto
+              h5 <i>Feedback</i> indirecto
               p Desde donde se emite no es explícito ni claro.
 
             .tarjeta.color13.p-4
-              h5 <i>feeback</i> positivo
+              h5 <i>Feedback</i> positivo
               p Destaca las cualidades positivas de un producto o servicio.
 
             .tarjeta.color13.p-4
-              h5 <i>feeback</i> negativo
+              h5 <i>Feedback</i> negativo
               p Su finalidad es detallar las características negativas de una experiencia frente a un producto o servicio.
 
             .tarjeta.color13.p-4
-              h5 <i>feeback</i> constructivo
+              h5 <i>Feedback</i> constructivo
               p Su finalidad es dar un punto de vista objetivo y comunicar cualidades negativas como positivas al consumir un producto o servicio.
 
             .tarjeta.color13.p-4
-              h5 <i>feeback</i> general
+              h5 <i>Feedback</i> general
               p Brinda una opinión general acerca de un producto o servicio, sin involucrarse en cualidades específicas. 
 
             .tarjeta.color13.p-4
-              h5 <i>feeback</i> concreto
-              p Esta clase de <i>feeback</i> lo realizan quienes nombran atributos concretos de un producto o servicio.
+              h5 <i>Feedback</i> concreto
+              p Esta clase de <i>Feedback</i> lo realizan quienes nombran atributos concretos de un producto o servicio.
 
             .tarjeta.color13.p-4
-              h5 <i>feeback</i> solicitado
+              h5 <i>Feedback</i> solicitado
               p La retroalimentación se realiza por solicitud, como en una encuesta o cuestionario la retroalimentación es solicitada.  
       .row.justify-content-center.align-items-center.mb-4
         .col-md-10
@@ -628,12 +629,12 @@
                 figure.mb-4
                   img(src='@/assets/curso/tema4/img4.png', alt='')
               .col-md-10
-                p.mb-4 <b>Se recomienda implementar un <i>feeback</i> en tres escenarios diferentes:</b> posteriormente de haber realizado el lanzamiento de un producto o servicio, cuando se determina un cambio brusco en el proceso de un producto o servicio y cuando un producto o servicio se conserva estancado.
-                p.mb-4 <b> Esto no quiere decir que en el momento que se pretenda o decida implementarlos no se pueda hacer, lo más importante es determinar cuál es el <i>feeback</i> más adecuado para lo que se pretenda hacer.</b>
+                p.mb-4 <b>Se recomienda implementar un <i>Feedback</i> en tres escenarios diferentes:</b> posteriormente de haber realizado el lanzamiento de un producto o servicio, cuando se determina un cambio brusco en el proceso de un producto o servicio y cuando un producto o servicio se conserva estancado.
+                p.mb-4 <b> Esto no quiere decir que en el momento que se pretenda o decida implementarlos no se pueda hacer, lo más importante es determinar cuál es el <i>Feedback</i> más adecuado para lo que se pretenda hacer.</b>
     .row.mb-4(data-aos="fade-up-right")
       .col-lg-4.col-md-7.col-10
         .tarjeta.colorsub.p-2
-          h4.mb-0.text-center.text-white Estrategias para conseguir <i>feeback</i>:  
+          h4.mb-0.text-center.text-white Estrategias para conseguir <i>Feedback</i>:  
 
     .row.mb-4(data-aos="fade")
       .col-md-7
@@ -644,13 +645,13 @@
 
           .row(titulo="Encuestas SMS")
             .col-md-12.mb-4.mb-md-0
-              p Los mensajes son uno de los métodos más fuertes que hay para solicitar un <i>feeback</i> a un cliente. En la actualidad la mayoría de usuarios poseen un dispositivo móvil, haciendo que los mensajes sean una gran forma de crear una cercanía con el cliente.   
+              p Los mensajes son uno de los métodos más fuertes que hay para solicitar un <i>Feedback</i> a un cliente. En la actualidad la mayoría de usuarios poseen un dispositivo móvil, haciendo que los mensajes sean una gran forma de crear una cercanía con el cliente.   
 
           .row(titulo="Cuestionarios en una red Wi-Fi")
             .col-md-12.mb-4.mb-md-0
               p Esta estrategia es muy común verlas en establecimientos de comercio, hoteles, centros comerciales. Sencillamente por otorgar el servicio Wi-Fi gratis, previamente aparece un pequeño cuestionario de preguntas, una vez el usuario las suministra tiene acceso al servicio Wi-Fi. Actualmente se implementa bastante.
 
-          .row(titulo="Tarjetas <i>feeback</i>")
+          .row(titulo="Tarjetas <i>Feedback</i>")
             .col-md-12.mb-4.mb-md-0
               p Este es un método tradicional para crear físicamente formularios, cuestionarios para la recolección de opinión de un cliente, aunque funciona implica más tiempo y gastos.
 
@@ -668,7 +669,6 @@
       .col-md-5
         figure
           img(src='@/assets/curso/tema4/vec2.svg', alt='')
-    Separador
 
 </template>
 
