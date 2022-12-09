@@ -197,7 +197,7 @@
                             p.mb-0 Optimiza el contenido del sitio <i>web.</i>
                           li 
                             i.fas.fa-check
-                            p Optimizar la información de la <i>web.</i> es fundamental.    
+                            p Optimizar la información de la <i>web</i> es fundamental.    
           .col-lg-2
             span
 

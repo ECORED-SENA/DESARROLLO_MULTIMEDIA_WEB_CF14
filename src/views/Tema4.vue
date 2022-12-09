@@ -15,7 +15,7 @@
 
     .row.align-items-center.mb-4
       .col-md-7(data-aos="fade-right")
-        <b> <FONT COLOR="#1565C0"> Google Analytics </FONT> </b> es la herramienta que ofrece la posibilidad de realizar seguimiento a sitios <i>web</i> y redes sociales, suministrando contenido de un sitio <i>web</i>, dicho de otra manera, ayuda a medir y analizar lo que sucede en un sitio <i>web</i>. Analytics es una herramienta compatible con las demás herramientas de Google.
+        <b> <FONT COLOR="#1565C0"> <em>Google Analytics</em> </FONT> </b> es la herramienta que ofrece la posibilidad de realizar seguimiento a sitios <i>web</i> y redes sociales, suministrando contenido de un sitio <i>web</i>, dicho de otra manera, ayuda a medir y analizar lo que sucede en un sitio <i>web</i>. Analytics es una herramienta compatible con las demás herramientas de Google.
       .col-md-4(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema4/img1.jpg', alt='')
@@ -94,21 +94,21 @@
       .tarjeta.tarjeta-zul.p-4.mb-4
         PasosB.color-secundario
           .row.justify-content-center.align-items-center(titulo="Recopilación de información")
-            .col-lg-8.col-md-12.col-12.mb-4.mb-md-0
+            .col-lg-8.col-md-12.col-12.mb-4
               .row.justify-content-center
                 .col-md-11
                   .tarjeta.color-azul2.p-4
                     h4 Recopilación de información
-                    p.mb-3 El primer paso es la respuesta del servidor el cual envía la página que se solicita al navegador del usuario, en este proceso el navegador analiza la información y se pondrá en contacto con otros servidores. Así funciona el código de Google analytics.
+                    p.mb-3 El primer paso es la respuesta del servidor el cual envía la página que se solicita al navegador del usuario, en este proceso el navegador analiza la información y se pondrá en contacto con otros servidores. Así funciona el código de <em>Google analytics</em>.
                     p.mb-3 Posteriormente el navegador del usuario que visita una página le solicita ese código a <i>analytics</i>. Acto seguido la plataforma lo envía y se guarda en un fichero.
                     p.mb-3 <b>Una vez se almacena la información, el código crea <i>cookies</i> en el computador o dispositivo móvil del usuario.</b>
-                    p.mb-0 Una vez están definidas las <i>cookies</i>, el código envía la información al servidor de Google Analytics con la solicitud de un fichero GIF invisible. Esta información es almacenada en otro fichero denominado fichero <i>logs</i> y crea un apartado de datos en el mismo por cada página visitada.
+                    p.mb-0 Una vez están definidas las <i>cookies</i>, el código envía la información al servidor de <em>Google Analytics</em> con la solicitud de un fichero GIF invisible. Esta información es almacenada en otro fichero denominado fichero <i>logs</i> y crea un apartado de datos en el mismo por cada página visitada.
             .col-lg-3.col-md-8.col-8
               figure
                 img(src='@/assets/curso/tema4/1.jpg', alt='')
 
           .row.justify-content-center.align-items-center(titulo="Procesamiento de información")
-            .col-lg-8.col-md-12.col-12.mb-4.mb-md-0
+            .col-lg-8.col-md-12.col-12.mb-4
               .row.justify-content-center
                 .col-md-11
                   .tarjeta.color-azul2.p-4
@@ -118,31 +118,31 @@
               figure
                 img(src='@/assets/curso/tema4/2.jpg', alt='')
 
-          .row.justify-content-center.align-items-center(titulo="Configuración Google analytics")
-            .col-lg-8.col-md-12.col-12.mb-4.mb-md-0
+          .row.justify-content-center.align-items-center(titulo="Configuración <em>Google analytics</em>")
+            .col-lg-8.col-md-12.col-12.mb-4
               .row.justify-content-center
                 .col-md-11
                   .tarjeta.color-azul2.p-4
-                    h4 Configuración Google Analytics 
+                    h4 Configuración <em>Google Analytics</em>
                     p Suministra su configuración a los datos sin procesar. Cuando se realiza el procesamiento de datos una vez almacenados en la base de datos no se podrán cambiar ni editar.
             .col-lg-3.col-md-8.col-8
               figure
                 img(src='@/assets/curso/tema4/3.jpg', alt='')
 
           .row.justify-content-center.align-items-center(titulo="Generación de informes")
-            .col-lg-8.col-md-12.col-12.mb-4.mb-md-0
+            .col-lg-8.col-md-12.col-12.mb-4
               .row.justify-content-center
                 .col-md-11
                   .tarjeta.color-azul2.p-4
                     h4 Generación de informes 
-                    p Cuando se requiere mirar informes de se puede realizar a través del servicio <i>web</i> de Google analytics, estos informes se organizan en relación a diferenciaciones de rangos, dicho de otra manera, se organizan comportamientos como el lugar de un usuario o el porcentaje que llevan los usuarios en llevar a cabo una determinada acción. 
+                    p Cuando se requiere mirar informes de se puede realizar a través del servicio <i>web</i> de <em>Google analytics</em>, estos informes se organizan en relación a diferenciaciones de rangos, dicho de otra manera, se organizan comportamientos como el lugar de un usuario o el porcentaje que llevan los usuarios en llevar a cabo una determinada acción. 
             .col-lg-3.col-md-8.col-8
               figure
                 img(src='@/assets/curso/tema4/4.jpg', alt='')
       .row.mb-4
         .col-md-12
           .cajon-b.color-acento-contenido
-            p.mb-0 <b>Una de las cualidades de Google Analytics es permitir saber el comportamiento de las campañas de <i>marketing</i> digital,</b>  es importante saber la manera de estructurar los objetivos, de esta forma se logrará obtener información valiosa para futuros cambios. Se pueden organizar objetivos que se quieran tales como el número de visitas de un usuario, cantidad de páginas visitadas, etc. <b>No obstante, se cuenta con la función de objetivos automáticos, estos son</b>
+            p.mb-0 <b>Una de las cualidades de <em>Google Analytics</em> es permitir saber el comportamiento de las campañas de <i>marketing</i> digital,</b>  es importante saber la manera de estructurar los objetivos, de esta forma se logrará obtener información valiosa para futuros cambios. Se pueden organizar objetivos que se quieran tales como el número de visitas de un usuario, cantidad de páginas visitadas, etc. <b>No obstante, se cuenta con la función de objetivos automáticos, estos son</b>
 
       .row.justify-content-center.align-items-center.mb-4
         .col-lg-3.col-md-6
@@ -177,7 +177,7 @@
     .row.mb-4(data-aos="fade-right")
       .col-lg-3.col-md-6
         .tarjeta.colorsub.p-2
-          h4.mb-0.text-center.text-white Interfaz de Google Analytics
+          h4.mb-0.text-center.text-white Interfaz de <em>Google Analytics</em>
 
     p.mb-4(data-aos="fade-right") La versión más reciente es Google 4, es una interfaz muy amigable y fácil a la hora de utilizar, en la parte izquierda aparecen los informes que suministra Google, opciones de programación y administración, en la zona superior se puede programar un periodo de análisis, incorporar segmentos de información, también aparece la opción de descargar o exportar informes.
 

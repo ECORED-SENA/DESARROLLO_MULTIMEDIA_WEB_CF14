@@ -106,7 +106,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '4.1',
-            titulo: 'Google analytics',
+            titulo: '<em>Google analytics</em>',
             hash: 't_4_1',
           },
           {
