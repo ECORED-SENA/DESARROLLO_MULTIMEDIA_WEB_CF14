@@ -106,7 +106,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '4.1',
-            titulo: '<em>Google analytics</em>',
+            titulo: '<em>Google Analytics</em>',
             hash: 't_4_1',
           },
           {
@@ -307,14 +307,14 @@ export default {
       link: 'https://www.youtube.com/watch?v=voxDnfOre-U',
     },
     {
-      tema: 'Google analytics',
+      tema: 'Google Analytics',
       referencia:
         'Valdez, A. (2018) ¿Qué es Google Ads y cómo funciona? [video].',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=iQdCSC5OH8o',
     },
     {
-      tema: 'Google analytics',
+      tema: 'Google Analytics',
       referencia:
         'Ciudadano 2.0 (2020) ¿Qué es Google Analytics y para qué sirve? - Tutorial 2021 [video]. Youtube.',
       tipo: 'Video',
