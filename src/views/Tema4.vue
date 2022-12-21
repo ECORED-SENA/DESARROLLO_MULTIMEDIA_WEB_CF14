@@ -99,7 +99,7 @@
                 .col-md-11
                   .tarjeta.color-azul2.p-4
                     h4 Recopilación de información
-                    p.mb-3 El primer paso es la respuesta del servidor el cual envía la página que se solicita al navegador del usuario, en este proceso el navegador analiza la información y se pondrá en contacto con otros servidores. Así funciona el código de <em>Google analytics</em>.
+                    p.mb-3 El primer paso es la respuesta del servidor el cual envía la página que se solicita al navegador del usuario, en este proceso el navegador analiza la información y se pondrá en contacto con otros servidores. Así funciona el código de <em>Google Analytics</em>.
                     p.mb-3 Posteriormente el navegador del usuario que visita una página le solicita ese código a <i>analytics</i>. Acto seguido la plataforma lo envía y se guarda en un fichero.
                     p.mb-3 <b>Una vez se almacena la información, el código crea <i>cookies</i> en el computador o dispositivo móvil del usuario.</b>
                     p.mb-0 Una vez están definidas las <i>cookies</i>, el código envía la información al servidor de <em>Google Analytics</em> con la solicitud de un fichero GIF invisible. Esta información es almacenada en otro fichero denominado fichero <i>logs</i> y crea un apartado de datos en el mismo por cada página visitada.
@@ -118,7 +118,7 @@
               figure
                 img(src='@/assets/curso/tema4/2.jpg', alt='')
 
-          .row.justify-content-center.align-items-center(titulo="Configuración <em>Google analytics</em>")
+          .row.justify-content-center.align-items-center(titulo="Configuración <em>Google Analytics</em>")
             .col-lg-8.col-md-12.col-12.mb-4
               .row.justify-content-center
                 .col-md-11
@@ -135,7 +135,7 @@
                 .col-md-11
                   .tarjeta.color-azul2.p-4
                     h4 Generación de informes 
-                    p Cuando se requiere mirar informes de se puede realizar a través del servicio <i>web</i> de <em>Google analytics</em>, estos informes se organizan en relación a diferenciaciones de rangos, dicho de otra manera, se organizan comportamientos como el lugar de un usuario o el porcentaje que llevan los usuarios en llevar a cabo una determinada acción. 
+                    p Cuando se requiere mirar informes de se puede realizar a través del servicio <i>web</i> de <em>Google Analytics</em>, estos informes se organizan en relación a diferenciaciones de rangos, dicho de otra manera, se organizan comportamientos como el lugar de un usuario o el porcentaje que llevan los usuarios en llevar a cabo una determinada acción. 
             .col-lg-3.col-md-8.col-8
               figure
                 img(src='@/assets/curso/tema4/4.jpg', alt='')
